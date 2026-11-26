@@ -1,4 +1,4 @@
-name: Wiki connection test
+name: SchaleDB connection test
 on:
   workflow_dispatch:
 permissions:
@@ -7,12 +7,22 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch Wiki
+      - name: Fetch Japanese student data
         run: |
-          curl --fail --location --retry 2 --max-time 60 -A 'Mozilla/5.0 (compatible; personal collection tracker)' 'https://bluearchive.wikiru.jp/?%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E4%B8%80%E8%A6%A7' -o wiki.html
-      - name: Save Wiki HTML
+          curl --fail --location --retry 2 --max-time 60 'https://schaledb.com/data/jp/students.json' -o students.json
+          python - <<'PY'
+          import json
+          with open('students.json', encoding='utf-8') as f:
+              data = json.load(f)
+          rows = list(data.values()) if isinstance(data, dict) else data
+          assert len(rows) > 100
+          assert any('シロコ' in str(x.get('Name', '')) for x in rows)
+          print('Student count:', len(rows))
+          print('Fields:', list(rows[0].keys()))
+          PY
+      - name: Save student data
         uses: actions/upload-artifact@v4
         with:
-          name: wiki-html
-          path: wiki.html
+          name: schaledb-students
+          path: students.json
           retention-days: 1
