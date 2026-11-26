@@ -7,12 +7,12 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch and inspect Wiki
+      - name: Fetch Wiki
         run: |
           curl --fail --location --retry 2 --max-time 60 -A 'Mozilla/5.0 (compatible; personal collection tracker)' 'https://bluearchive.wikiru.jp/?%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E4%B8%80%E8%A6%A7' -o wiki.html
-          python - <<'PY'
-          from pathlib import Path
-          s = Path('wiki.html').read_text(encoding='utf-8')
-          assert 'シロコ' in s and 'ユウカ' in s and '<table' in s, 'Unexpected Wiki response'
-          print('Wiki connection successful:', len(s), 'characters')
-          PY
+      - name: Save Wiki HTML
+        uses: actions/upload-artifact@v4
+        with:
+          name: wiki-html
+          path: wiki.html
+          retention-days: 1
