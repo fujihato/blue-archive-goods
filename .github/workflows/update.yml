@@ -1,28 +1,20 @@
-name: SchaleDB connection test
+name: SchaleDB daily update
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '23 20 * * *'
 permissions:
-  contents: read
+  contents: write
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch Japanese student data
+      - uses: actions/checkout@v4
+      - run: python update.py
+      - name: Commit updated data
         run: |
-          curl --fail --location --retry 2 --max-time 60 'https://schaledb.com/data/jp/students.json' -o students.json
-          python - <<'PY'
-          import json
-          with open('students.json', encoding='utf-8') as f:
-              data = json.load(f)
-          rows = list(data.values()) if isinstance(data, dict) else data
-          assert len(rows) > 100
-          assert any('シロコ' in str(x.get('Name', '')) for x in rows)
-          print('Student count:', len(rows))
-          print('Fields:', list(rows[0].keys()))
-          PY
-      - name: Save student data
-        uses: actions/upload-artifact@v4
-        with:
-          name: schaledb-students
-          path: students.json
-          retention-days: 1
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add students.json
+          git diff --cached --quiet || git commit -m 'Update student data'
+          git push
