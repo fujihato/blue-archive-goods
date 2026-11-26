@@ -10,7 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python update.py
+
+      - name: Fetch SchaleDB data
+        run: |
+          curl --fail --location --retry 2 --max-time 60 'https://schaledb.com/data/jp/students.json' -o /tmp/schale-students.json
+
+      - name: Update student data
+        run: python update.py /tmp/schale-students.json
+
       - name: Commit updated data
         run: |
           git config user.name 'github-actions[bot]'
