@@ -1,0 +1,1664 @@
+[
+  {
+    "n": "アル",
+    "v": "通常",
+    "id": 10000,
+    "icon": "enemyinfo_aru_sr"
+  },
+  {
+    "n": "エイミ",
+    "v": "通常",
+    "id": 10001,
+    "icon": "enemyinfo_eimi_sg"
+  },
+  {
+    "n": "ハルナ",
+    "v": "通常",
+    "id": 10002,
+    "icon": "enemyinfo_haruna_sr"
+  },
+  {
+    "n": "ヒフミ",
+    "v": "通常",
+    "id": 10003,
+    "icon": "enemyinfo_hihumi_ar"
+  },
+  {
+    "n": "ヒナ",
+    "v": "通常",
+    "id": 10004,
+    "icon": "enemyinfo_hina_mg"
+  },
+  {
+    "n": "ホシノ",
+    "v": "通常",
+    "id": 10005,
+    "icon": "enemyinfo_hoshino_sg"
+  },
+  {
+    "n": "イオリ",
+    "v": "通常",
+    "id": 10006,
+    "icon": "enemyinfo_iori_sr"
+  },
+  {
+    "n": "マキ",
+    "v": "通常",
+    "id": 10007,
+    "icon": "enemyinfo_maki_mg"
+  },
+  {
+    "n": "ネル",
+    "v": "通常",
+    "id": 10008,
+    "icon": "enemyinfo_neru_smg"
+  },
+  {
+    "n": "イズミ",
+    "v": "通常",
+    "id": 10009,
+    "icon": "enemyinfo_izumi_mg"
+  },
+  {
+    "n": "シロコ",
+    "v": "通常",
+    "id": 10010,
+    "icon": "enemyinfo_shiroko_ar"
+  },
+  {
+    "n": "シュン",
+    "v": "通常",
+    "id": 10011,
+    "icon": "enemyinfo_shun_sr"
+  },
+  {
+    "n": "スミレ",
+    "v": "通常",
+    "id": 10012,
+    "icon": "enemyinfo_sumire_sg"
+  },
+  {
+    "n": "ツルギ",
+    "v": "通常",
+    "id": 10013,
+    "icon": "enemyinfo_tsurugi_sg"
+  },
+  {
+    "n": "アカネ",
+    "v": "通常",
+    "id": 13000,
+    "icon": "enemyinfo_akane_hg"
+  },
+  {
+    "n": "チセ",
+    "v": "通常",
+    "id": 13001,
+    "icon": "enemyinfo_chise_gl"
+  },
+  {
+    "n": "アカリ",
+    "v": "通常",
+    "id": 13002,
+    "icon": "enemyinfo_akari_ar"
+  },
+  {
+    "n": "ハスミ",
+    "v": "通常",
+    "id": 13003,
+    "icon": "enemyinfo_hasumi_sr"
+  },
+  {
+    "n": "ノノミ",
+    "v": "通常",
+    "id": 13004,
+    "icon": "enemyinfo_nonomi_mg"
+  },
+  {
+    "n": "カヨコ",
+    "v": "通常",
+    "id": 13005,
+    "icon": "enemyinfo_kayoko_hg"
+  },
+  {
+    "n": "ムツキ",
+    "v": "通常",
+    "id": 13006,
+    "icon": "enemyinfo_mutsuki_hmg"
+  },
+  {
+    "n": "ジュンコ",
+    "v": "通常",
+    "id": 13007,
+    "icon": "enemyinfo_zunko_ar"
+  },
+  {
+    "n": "セリカ",
+    "v": "通常",
+    "id": 13008,
+    "icon": "enemyinfo_serika_ar"
+  },
+  {
+    "n": "ツバキ",
+    "v": "通常",
+    "id": 13009,
+    "icon": "enemyinfo_tsubaki_smg"
+  },
+  {
+    "n": "ユウカ",
+    "v": "通常",
+    "id": 13010,
+    "icon": "enemyinfo_yuuka_smg"
+  },
+  {
+    "n": "ハルカ",
+    "v": "通常",
+    "id": 16000,
+    "icon": "enemyinfo_haruka_sg"
+  },
+  {
+    "n": "アスナ",
+    "v": "通常",
+    "id": 16001,
+    "icon": "enemyinfo_asuna_ar"
+  },
+  {
+    "n": "コトリ",
+    "v": "通常",
+    "id": 16002,
+    "icon": "enemyinfo_kotori_mg"
+  },
+  {
+    "n": "スズミ",
+    "v": "通常",
+    "id": 16003,
+    "icon": "enemyinfo_suzumi_ar"
+  },
+  {
+    "n": "フィーナ",
+    "v": "通常",
+    "id": 16004,
+    "icon": "enemyinfo_pina_mg"
+  },
+  {
+    "n": "ヒビキ",
+    "v": "通常",
+    "id": 20000,
+    "icon": "enemyinfo_hibiki_mt"
+  },
+  {
+    "n": "カリン",
+    "v": "通常",
+    "id": 20001,
+    "icon": "enemyinfo_karin_sr"
+  },
+  {
+    "n": "サヤ",
+    "v": "通常",
+    "id": 20002,
+    "icon": "enemyinfo_saya_original"
+  },
+  {
+    "n": "アイリ",
+    "v": "通常",
+    "id": 23000,
+    "icon": "enemyinfo_airi_smg"
+  },
+  {
+    "n": "フウカ",
+    "v": "通常",
+    "id": 23001,
+    "icon": "enemyinfo_fuuka_smg"
+  },
+  {
+    "n": "ハナエ",
+    "v": "通常",
+    "id": 23002,
+    "icon": "enemyinfo_hanae_ar"
+  },
+  {
+    "n": "ハレ",
+    "v": "通常",
+    "id": 23003,
+    "icon": "enemyinfo_hare_ar"
+  },
+  {
+    "n": "ウタハ",
+    "v": "通常",
+    "id": 23004,
+    "icon": "enemyinfo_utaha_smg"
+  },
+  {
+    "n": "アヤネ",
+    "v": "通常",
+    "id": 23005,
+    "icon": "enemyinfo_ayane_hg"
+  },
+  {
+    "n": "チナツ",
+    "v": "通常",
+    "id": 26000,
+    "icon": "enemyinfo_chinatsu_hg"
+  },
+  {
+    "n": "コタマ",
+    "v": "通常",
+    "id": 26001,
+    "icon": null
+  },
+  {
+    "n": "ジュリ",
+    "v": "通常",
+    "id": 26002,
+    "icon": "enemyinfo_juri_sg"
+  },
+  {
+    "n": "セリナ",
+    "v": "通常",
+    "id": 26003,
+    "icon": "enemyinfo_serina_ar"
+  },
+  {
+    "n": "シミコ",
+    "v": "通常",
+    "id": 26004,
+    "icon": "enemyinfo_shimiko_ar"
+  },
+  {
+    "n": "ヨシミ",
+    "v": "通常",
+    "id": 26005,
+    "icon": "enemyinfo_yoshimi_ar"
+  },
+  {
+    "n": "マシロ",
+    "v": "通常",
+    "id": 20003,
+    "icon": "enemyinfo_mashiro_sr"
+  },
+  {
+    "n": "イズナ",
+    "v": "通常",
+    "id": 10014,
+    "icon": "enemyinfo_izuna_smg"
+  },
+  {
+    "n": "シズコ",
+    "v": "通常",
+    "id": 23006,
+    "icon": "enemyinfo_shizuko_hg"
+  },
+  {
+    "n": "アリス",
+    "v": "通常",
+    "id": 10015,
+    "icon": "enemyinfo_aris_rg"
+  },
+  {
+    "n": "ミドリ",
+    "v": "通常",
+    "id": 10016,
+    "icon": "enemyinfo_midori_sr"
+  },
+  {
+    "n": "モモイ",
+    "v": "通常",
+    "id": 13011,
+    "icon": "enemyinfo_momoi_ar"
+  },
+  {
+    "n": "チェリノ",
+    "v": "通常",
+    "id": 10017,
+    "icon": "enemyinfo_cherino_hg"
+  },
+  {
+    "n": "ノドカ",
+    "v": "通常",
+    "id": 26006,
+    "icon": "enemyinfo_nodoka_original_smg"
+  },
+  {
+    "n": "ユズ",
+    "v": "通常",
+    "id": 10018,
+    "icon": "enemyinfo_yuzu_gl"
+  },
+  {
+    "n": "アズサ",
+    "v": "通常",
+    "id": 10019,
+    "icon": "enemyinfo_azusa_ar"
+  },
+  {
+    "n": "ハナコ",
+    "v": "通常",
+    "id": 23007,
+    "icon": "enemyinfo_hanako_ar"
+  },
+  {
+    "n": "コハル",
+    "v": "通常",
+    "id": 10020,
+    "icon": "enemyinfo_koharu_sr"
+  },
+  {
+    "n": "アズサ",
+    "v": "水着",
+    "id": 10021,
+    "icon": null
+  },
+  {
+    "n": "マシロ",
+    "v": "水着",
+    "id": 20004,
+    "icon": null
+  },
+  {
+    "n": "ツルギ",
+    "v": "水着",
+    "id": 16005,
+    "icon": null
+  },
+  {
+    "n": "ヒフミ",
+    "v": "水着",
+    "id": 20005,
+    "icon": "enemyinfo_ch0058_ar"
+  },
+  {
+    "n": "ヒナ",
+    "v": "水着",
+    "id": 10022,
+    "icon": null
+  },
+  {
+    "n": "イオリ",
+    "v": "水着",
+    "id": 10023,
+    "icon": null
+  },
+  {
+    "n": "イズミ",
+    "v": "水着",
+    "id": 16006,
+    "icon": "enemyinfo_izumi_swimsuit_mg"
+  },
+  {
+    "n": "シロコ",
+    "v": "ライディング",
+    "id": 10024,
+    "icon": null
+  },
+  {
+    "n": "シュン",
+    "v": "幼女",
+    "id": 10025,
+    "icon": "enemyinfo_ch0066"
+  },
+  {
+    "n": "キリノ",
+    "v": "通常",
+    "id": 13012,
+    "icon": "enemyinfo_kirino_hg"
+  },
+  {
+    "n": "サヤ",
+    "v": "私服",
+    "id": 20006,
+    "icon": "enemyinfo_saya_casual"
+  },
+  {
+    "n": "ネル",
+    "v": "バニーガール",
+    "id": 10026,
+    "icon": null
+  },
+  {
+    "n": "カリン",
+    "v": "バニーガール",
+    "id": 10027,
+    "icon": null
+  },
+  {
+    "n": "アスナ",
+    "v": "バニーガール",
+    "id": 10028,
+    "icon": null
+  },
+  {
+    "n": "ナツ",
+    "v": "通常",
+    "id": 10029,
+    "icon": "enemyinfo_ch0155_smg"
+  },
+  {
+    "n": "マリー",
+    "v": "通常",
+    "id": 23008,
+    "icon": "enemyinfo_mari_hg"
+  },
+  {
+    "n": "アコ",
+    "v": "通常",
+    "id": 20008,
+    "icon": "enemyinfo_ako_hg"
+  },
+  {
+    "n": "チェリノ",
+    "v": "温泉",
+    "id": 20009,
+    "icon": null
+  },
+  {
+    "n": "チナツ",
+    "v": "温泉",
+    "id": 10030,
+    "icon": "enemyinfo_ch0163"
+  },
+  {
+    "n": "トモエ",
+    "v": "通常",
+    "id": 16007,
+    "icon": "enemyinfo_tomoe_sr"
+  },
+  {
+    "n": "ノドカ",
+    "v": "温泉",
+    "id": 20010,
+    "icon": null
+  },
+  {
+    "n": "アル",
+    "v": "正月",
+    "id": 10031,
+    "icon": null
+  },
+  {
+    "n": "ムツキ",
+    "v": "正月",
+    "id": 10032,
+    "icon": null
+  },
+  {
+    "n": "セリカ",
+    "v": "正月",
+    "id": 20011,
+    "icon": null
+  },
+  {
+    "n": "ワカモ",
+    "v": "通常",
+    "id": 10033,
+    "icon": "enemyinfo_wakamo_sr"
+  },
+  {
+    "n": "フブキ",
+    "v": "通常",
+    "id": 16008,
+    "icon": "enemyinfo_fubuki_sr"
+  },
+  {
+    "n": "セナ",
+    "v": "通常",
+    "id": 20012,
+    "icon": "enemyinfo_ch0081_gl"
+  },
+  {
+    "n": "チヒロ",
+    "v": "通常",
+    "id": 20013,
+    "icon": "enemyinfo_ch0160_ar"
+  },
+  {
+    "n": "ミモリ",
+    "v": "通常",
+    "id": 10034,
+    "icon": "enemyinfo_mimori_hg"
+  },
+  {
+    "n": "ウイ",
+    "v": "通常",
+    "id": 10035,
+    "icon": null
+  },
+  {
+    "n": "ヒナタ",
+    "v": "通常",
+    "id": 10036,
+    "icon": "enemyinfo_hinata_hg"
+  },
+  {
+    "n": "マリナ",
+    "v": "通常",
+    "id": 10037,
+    "icon": "enemyinfo_marina_original_smg"
+  },
+  {
+    "n": "ミヤコ",
+    "v": "通常",
+    "id": 10038,
+    "icon": "enemyinfo_miyako_smg"
+  },
+  {
+    "n": "サキ",
+    "v": "通常",
+    "id": 20014,
+    "icon": "enemyinfo_saki_mg"
+  },
+  {
+    "n": "ミユ",
+    "v": "通常",
+    "id": 10039,
+    "icon": "enemyinfo_miyu_sr"
+  },
+  {
+    "n": "カエデ",
+    "v": "通常",
+    "id": 20015,
+    "icon": "enemyinfo_kaede_hg"
+  },
+  {
+    "n": "イロハ",
+    "v": "通常",
+    "id": 20016,
+    "icon": "enemyinfo_ch0156_hg"
+  },
+  {
+    "n": "ミチル",
+    "v": "通常",
+    "id": 16009,
+    "icon": null
+  },
+  {
+    "n": "ツクヨ",
+    "v": "通常",
+    "id": 10040,
+    "icon": null
+  },
+  {
+    "n": "ミサキ",
+    "v": "通常",
+    "id": 10041,
+    "icon": "enemyinfo_misaki_rl"
+  },
+  {
+    "n": "ヒヨリ",
+    "v": "通常",
+    "id": 20017,
+    "icon": "enemyinfo_hiyori_sr"
+  },
+  {
+    "n": "アツコ",
+    "v": "通常",
+    "id": 10042,
+    "icon": "enemyinfo_atsuko_smg"
+  },
+  {
+    "n": "ワカモ",
+    "v": "水着",
+    "id": 10043,
+    "icon": "enemyinfo_wakamo_swimsuit_original"
+  },
+  {
+    "n": "ノノミ",
+    "v": "水着",
+    "id": 10044,
+    "icon": null
+  },
+  {
+    "n": "アヤネ",
+    "v": "水着",
+    "id": 26007,
+    "icon": "enemyinfo_ch0176"
+  },
+  {
+    "n": "ホシノ",
+    "v": "水着",
+    "id": 10045,
+    "icon": null
+  },
+  {
+    "n": "シズコ",
+    "v": "水着",
+    "id": 26008,
+    "icon": null
+  },
+  {
+    "n": "イズナ",
+    "v": "水着",
+    "id": 10046,
+    "icon": null
+  },
+  {
+    "n": "チセ",
+    "v": "水着",
+    "id": 10047,
+    "icon": null
+  },
+  {
+    "n": "サオリ",
+    "v": "通常",
+    "id": 10048,
+    "icon": "enemyinfo_saori_ar"
+  },
+  {
+    "n": "モエ",
+    "v": "通常",
+    "id": 20018,
+    "icon": "enemyinfo_moe"
+  },
+  {
+    "n": "カズサ",
+    "v": "通常",
+    "id": 10049,
+    "icon": "enemyinfo_kazusa_mg"
+  },
+  {
+    "n": "ココナ",
+    "v": "通常",
+    "id": 10050,
+    "icon": "enemyinfo_ch0137"
+  },
+  {
+    "n": "ウタハ",
+    "v": "応援団",
+    "id": 10051,
+    "icon": null
+  },
+  {
+    "n": "ノア",
+    "v": "通常",
+    "id": 10052,
+    "icon": "enemyinfo_ch0095"
+  },
+  {
+    "n": "ヒビキ",
+    "v": "応援団",
+    "id": 16010,
+    "icon": null
+  },
+  {
+    "n": "アカネ",
+    "v": "バニーガール",
+    "id": 20019,
+    "icon": null
+  },
+  {
+    "n": "ユウカ",
+    "v": "体操服",
+    "id": 10053,
+    "icon": null
+  },
+  {
+    "n": "マリー",
+    "v": "体操服",
+    "id": 10054,
+    "icon": null
+  },
+  {
+    "n": "ハスミ",
+    "v": "体操服",
+    "id": 16011,
+    "icon": null
+  },
+  {
+    "n": "ヒマリ",
+    "v": "通常",
+    "id": 20020,
+    "icon": "enemyinfo_ch0159"
+  },
+  {
+    "n": "シグレ",
+    "v": "通常",
+    "id": 10055,
+    "icon": "enemyinfo_shigure_original_gl"
+  },
+  {
+    "n": "セリナ",
+    "v": "クリスマス",
+    "id": 10056,
+    "icon": null
+  },
+  {
+    "n": "ハナエ",
+    "v": "クリスマス",
+    "id": 20021,
+    "icon": null
+  },
+  {
+    "n": "ハルナ",
+    "v": "正月",
+    "id": 10057,
+    "icon": null
+  },
+  {
+    "n": "フウカ",
+    "v": "正月",
+    "id": 20022,
+    "icon": null
+  },
+  {
+    "n": "ジュンコ",
+    "v": "正月",
+    "id": 16012,
+    "icon": null
+  },
+  {
+    "n": "ミネ",
+    "v": "通常",
+    "id": 10058,
+    "icon": null
+  },
+  {
+    "n": "ミカ",
+    "v": "通常",
+    "id": 10059,
+    "icon": "enemyinfo_mikaenemy_smg"
+  },
+  {
+    "n": "メグ",
+    "v": "通常",
+    "id": 10060,
+    "icon": "enemyinfo_megu_onsendev_ft"
+  },
+  {
+    "n": "カンナ",
+    "v": "通常",
+    "id": 20023,
+    "icon": null
+  },
+  {
+    "n": "サクラコ",
+    "v": "通常",
+    "id": 10061,
+    "icon": null
+  },
+  {
+    "n": "トキ",
+    "v": "通常",
+    "id": 10062,
+    "icon": "enemyinfo_toki_cnc_mg_boss"
+  },
+  {
+    "n": "ナギサ",
+    "v": "通常",
+    "id": 20024,
+    "icon": null
+  },
+  {
+    "n": "コユキ",
+    "v": "通常",
+    "id": 10063,
+    "icon": "enemyinfo_ch0198"
+  },
+  {
+    "n": "カヨコ",
+    "v": "正月",
+    "id": 10064,
+    "icon": null
+  },
+  {
+    "n": "ハルカ",
+    "v": "正月",
+    "id": 20025,
+    "icon": null
+  },
+  {
+    "n": "カホ",
+    "v": "通常",
+    "id": 10065,
+    "icon": null
+  },
+  {
+    "n": "アリス",
+    "v": "メイド",
+    "id": 10066,
+    "icon": "enemyinfo_ch0200"
+  },
+  {
+    "n": "トキ",
+    "v": "バニーガール",
+    "id": 10067,
+    "icon": "enemyinfo_ch0211"
+  },
+  {
+    "n": "ユズ",
+    "v": "メイド",
+    "id": 26009,
+    "icon": "enemyinfo_ch0203"
+  },
+  {
+    "n": "レイサ",
+    "v": "通常",
+    "id": 10068,
+    "icon": null
+  },
+  {
+    "n": "ルミ",
+    "v": "通常",
+    "id": 10069,
+    "icon": "enemyinfo_ch0135"
+  },
+  {
+    "n": "ミナ",
+    "v": "通常",
+    "id": 10070,
+    "icon": "enemyinfo_ch0138"
+  },
+  {
+    "n": "ミノリ",
+    "v": "通常",
+    "id": 20026,
+    "icon": "enemyinfo_ch0214"
+  },
+  {
+    "n": "ミヤコ",
+    "v": "水着",
+    "id": 10071,
+    "icon": "enemyinfo_ch0215"
+  },
+  {
+    "n": "サキ",
+    "v": "水着",
+    "id": 10072,
+    "icon": "enemyinfo_ch0217"
+  },
+  {
+    "n": "ミユ",
+    "v": "水着",
+    "id": 26010,
+    "icon": "enemyinfo_ch0218"
+  },
+  {
+    "n": "シロコ",
+    "v": "水着",
+    "id": 20027,
+    "icon": "enemyinfo_ch0188"
+  },
+  {
+    "n": "ウイ",
+    "v": "水着",
+    "id": 10073,
+    "icon": "enemyinfo_ch0204"
+  },
+  {
+    "n": "ヒナタ",
+    "v": "水着",
+    "id": 20028,
+    "icon": "enemyinfo_ch0210"
+  },
+  {
+    "n": "コハル",
+    "v": "水着",
+    "id": 16013,
+    "icon": "enemyinfo_ch0205"
+  },
+  {
+    "n": "ハナコ",
+    "v": "水着",
+    "id": 10074,
+    "icon": "enemyinfo_ch0209"
+  },
+  {
+    "n": "ミモリ",
+    "v": "水着",
+    "id": 20029,
+    "icon": null
+  },
+  {
+    "n": "メル",
+    "v": "通常",
+    "id": 10075,
+    "icon": "enemyinfo_ch0124"
+  },
+  {
+    "n": "モミジ",
+    "v": "通常",
+    "id": 13013,
+    "icon": "enemyinfo_momiji_default"
+  },
+  {
+    "n": "コトリ",
+    "v": "応援団",
+    "id": 10076,
+    "icon": null
+  },
+  {
+    "n": "ハルナ",
+    "v": "体操服",
+    "id": 20030,
+    "icon": null
+  },
+  {
+    "n": "イチカ",
+    "v": "通常",
+    "id": 10077,
+    "icon": "enemyinfo_ch0071"
+  },
+  {
+    "n": "カスミ",
+    "v": "通常",
+    "id": 10078,
+    "icon": "enemyinfo_ch0089"
+  },
+  {
+    "n": "シグレ",
+    "v": "温泉",
+    "id": 20031,
+    "icon": null
+  },
+  {
+    "n": "ユカリ",
+    "v": "通常",
+    "id": 10081,
+    "icon": "enemyinfo_ch0161"
+  },
+  {
+    "n": "レンゲ",
+    "v": "通常",
+    "id": 10082,
+    "icon": "enemyinfo_ch0224"
+  },
+  {
+    "n": "キキョウ",
+    "v": "通常",
+    "id": 10083,
+    "icon": "enemyinfo_ch0225"
+  },
+  {
+    "n": "エイミ",
+    "v": "水着",
+    "id": 20032,
+    "icon": "enemyinfo_ch0219"
+  },
+  {
+    "n": "コタマ",
+    "v": "キャンプ",
+    "id": 10084,
+    "icon": "enemyinfo_ch0232"
+  },
+  {
+    "n": "ハレ",
+    "v": "キャンプ",
+    "id": 10085,
+    "icon": "enemyinfo_ch0233"
+  },
+  {
+    "n": "アコ",
+    "v": "ドレス",
+    "id": 10087,
+    "icon": "enemyinfo_ch0231"
+  },
+  {
+    "n": "イブキ",
+    "v": "通常",
+    "id": 16014,
+    "icon": "enemyinfo_ch0077"
+  },
+  {
+    "n": "マコト",
+    "v": "通常",
+    "id": 20033,
+    "icon": "enemyinfo_ch0079"
+  },
+  {
+    "n": "ヒナ",
+    "v": "ドレス",
+    "id": 10086,
+    "icon": "enemyinfo_ch0230"
+  },
+  {
+    "n": "カヨコ",
+    "v": "ドレス",
+    "id": 10088,
+    "icon": "enemyinfo_ch0239"
+  },
+  {
+    "n": "アル",
+    "v": "ドレス",
+    "id": 10089,
+    "icon": "enemyinfo_ch0240"
+  },
+  {
+    "n": "アカリ",
+    "v": "正月",
+    "id": 20034,
+    "icon": "enemyinfo_ch0196"
+  },
+  {
+    "n": "ウミカ",
+    "v": "通常",
+    "id": 10090,
+    "icon": "enemyinfo_ch0110"
+  },
+  {
+    "n": "ツバキ",
+    "v": "ガイド",
+    "id": 20035,
+    "icon": "enemyinfo_ch0255"
+  },
+  {
+    "n": "カズサ",
+    "v": "バンド",
+    "id": 10091,
+    "icon": "enemyinfo_ch0250"
+  },
+  {
+    "n": "ヨシミ",
+    "v": "バンド",
+    "id": 10092,
+    "icon": "enemyinfo_ch0220"
+  },
+  {
+    "n": "アイリ",
+    "v": "バンド",
+    "id": 16015,
+    "icon": "enemyinfo_ch0251"
+  },
+  {
+    "n": "キララ",
+    "v": "通常",
+    "id": 10093,
+    "icon": "enemyinfo_kirara"
+  },
+  {
+    "n": "モモイ",
+    "v": "メイド",
+    "id": 10094,
+    "icon": "enemyinfo_ch0201"
+  },
+  {
+    "n": "ミドリ",
+    "v": "メイド",
+    "id": 10095,
+    "icon": "enemyinfo_ch0202"
+  },
+  {
+    "n": "セリカ",
+    "v": "水着",
+    "id": 20036,
+    "icon": "enemyinfo_ch0189"
+  },
+  {
+    "n": "カンナ",
+    "v": "水着",
+    "id": 10096,
+    "icon": "enemyinfo_ch0260"
+  },
+  {
+    "n": "フブキ",
+    "v": "水着",
+    "id": 20037,
+    "icon": "enemyinfo_ch0261"
+  },
+  {
+    "n": "キリノ",
+    "v": "水着",
+    "id": 26012,
+    "icon": "enemyinfo_ch0262"
+  },
+  {
+    "n": "モエ",
+    "v": "水着",
+    "id": 10097,
+    "icon": "enemyinfo_ch0216"
+  },
+  {
+    "n": "ホシノ",
+    "v": "臨戦",
+    "id": 10098,
+    "icon": "enemyinfo_ch0258_02_enemy"
+  },
+  {
+    "n": "シロコ＊テラー",
+    "v": "通常",
+    "id": 10100,
+    "icon": "enemyinfo_ch0263"
+  },
+  {
+    "n": "アツコ",
+    "v": "水着",
+    "id": 26013,
+    "icon": "enemyinfo_ch0267"
+  },
+  {
+    "n": "サオリ",
+    "v": "水着",
+    "id": 10101,
+    "icon": "enemyinfo_ch0266"
+  },
+  {
+    "n": "ヒヨリ",
+    "v": "水着",
+    "id": 10102,
+    "icon": "enemyinfo_ch0269"
+  },
+  {
+    "n": "マリナ",
+    "v": "チーパオ",
+    "id": 10103,
+    "icon": "enemyinfo_ch0270"
+  },
+  {
+    "n": "トモエ",
+    "v": "チーパオ",
+    "id": 20038,
+    "icon": "enemyinfo_ch0271"
+  },
+  {
+    "n": "レイジョ",
+    "v": "通常",
+    "id": 10104,
+    "icon": "enemyinfo_reizyo"
+  },
+  {
+    "n": "キサキ",
+    "v": "通常",
+    "id": 20039,
+    "icon": "enemyinfo_ch0139"
+  },
+  {
+    "n": "マリー",
+    "v": "アイドル",
+    "id": 10105,
+    "icon": "enemyinfo_ch0273"
+  },
+  {
+    "n": "サクラコ",
+    "v": "アイドル",
+    "id": 10106,
+    "icon": "enemyinfo_ch0274"
+  },
+  {
+    "n": "ミネ",
+    "v": "アイドル",
+    "id": 16016,
+    "icon": "enemyinfo_ch0275"
+  },
+  {
+    "n": "チアキ",
+    "v": "通常",
+    "id": 10107,
+    "icon": "enemyinfo_ch0238"
+  },
+  {
+    "n": "サツキ",
+    "v": "通常",
+    "id": 20040,
+    "icon": "enemyinfo_ch0080"
+  },
+  {
+    "n": "ユウカ",
+    "v": "パジャマ",
+    "id": 10108,
+    "icon": "enemyinfo_ch0284"
+  },
+  {
+    "n": "ノア",
+    "v": "パジャマ",
+    "id": 10109,
+    "icon": "enemyinfo_ch0285"
+  },
+  {
+    "n": "セイア",
+    "v": "通常",
+    "id": 10110,
+    "icon": "enemyinfo_ch0070"
+  },
+  {
+    "n": "アスナ",
+    "v": "制服",
+    "id": 10112,
+    "icon": "enemyinfo_ch0281"
+  },
+  {
+    "n": "カリン",
+    "v": "制服",
+    "id": 26014,
+    "icon": "enemyinfo_ch0282"
+  },
+  {
+    "n": "ネル",
+    "v": "制服",
+    "id": 10111,
+    "icon": "enemyinfo_ch0280"
+  },
+  {
+    "n": "リオ",
+    "v": "通常",
+    "id": 20041,
+    "icon": "enemyinfo_ch0158"
+  },
+  {
+    "n": "マキ",
+    "v": "キャンプ",
+    "id": 20042,
+    "icon": "enemyinfo_ch0235"
+  },
+  {
+    "n": "セナ",
+    "v": "私服",
+    "id": 10113,
+    "icon": "enemyinfo_ch0082"
+  },
+  {
+    "n": "ジュリ",
+    "v": "アルバイト",
+    "id": 10114,
+    "icon": "enemyinfo_ch0286"
+  },
+  {
+    "n": "イズミ",
+    "v": "正月",
+    "id": 20043,
+    "icon": "enemyinfo_ch0197"
+  },
+  {
+    "n": "レイ",
+    "v": "通常",
+    "id": 10115,
+    "icon": "enemyinfo_ch0245"
+  },
+  {
+    "n": "スミレ",
+    "v": "アルバイト",
+    "id": 20044,
+    "icon": "enemyinfo_ch0287"
+  },
+  {
+    "n": "サオリ",
+    "v": "ドレス",
+    "id": 10116,
+    "icon": "enemyinfo_ch0259"
+  },
+  {
+    "n": "ヒカリ",
+    "v": "通常",
+    "id": 10117,
+    "icon": "enemyinfo_ch0242"
+  },
+  {
+    "n": "ノゾミ",
+    "v": "通常",
+    "id": 10118,
+    "icon": "enemyinfo_ch0243"
+  },
+  {
+    "n": "アオバ",
+    "v": "通常",
+    "id": 16017,
+    "icon": "enemyinfo_ch0288"
+  },
+  {
+    "n": "フィーナ",
+    "v": "ガイド",
+    "id": 20045,
+    "icon": "enemyinfo_ch0257"
+  },
+  {
+    "n": "ナグサ",
+    "v": "通常",
+    "id": 10119,
+    "icon": "enemyinfo_ch0222"
+  },
+  {
+    "n": "ニヤ",
+    "v": "通常",
+    "id": 20046,
+    "icon": "enemyinfo_ch0109"
+  },
+  {
+    "n": "ナツ",
+    "v": "バンド",
+    "id": 10120,
+    "icon": "enemyinfo_ch0221"
+  },
+  {
+    "n": "ユカリ",
+    "v": "水着",
+    "id": 10121,
+    "icon": "enemyinfo_ch0301"
+  },
+  {
+    "n": "レンゲ",
+    "v": "水着",
+    "id": 13014,
+    "icon": "enemyinfo_ch0302"
+  },
+  {
+    "n": "キキョウ",
+    "v": "水着",
+    "id": 20047,
+    "icon": "enemyinfo_ch0300"
+  },
+  {
+    "n": "セイア",
+    "v": "水着",
+    "id": 10123,
+    "icon": "enemyinfo_ch0295"
+  },
+  {
+    "n": "ハスミ",
+    "v": "水着",
+    "id": 10124,
+    "icon": "enemyinfo_ch0291"
+  },
+  {
+    "n": "イチカ",
+    "v": "水着",
+    "id": 26015,
+    "icon": "enemyinfo_ch0292"
+  },
+  {
+    "n": "ナギサ",
+    "v": "水着",
+    "id": 20048,
+    "icon": "enemyinfo_ch0293"
+  },
+  {
+    "n": "ミカ",
+    "v": "水着",
+    "id": 10122,
+    "icon": "enemyinfo_ch0294"
+  },
+  {
+    "n": "エリ",
+    "v": "通常",
+    "id": 10125,
+    "icon": "enemyinfo_ch0304"
+  },
+  {
+    "n": "カノエ",
+    "v": "通常",
+    "id": 10126,
+    "icon": "enemyinfo_ch0306"
+  },
+  {
+    "n": "ミサキ",
+    "v": "水着",
+    "id": 20049,
+    "icon": "enemyinfo_ch0268"
+  },
+  {
+    "n": "ミヨ",
+    "v": "通常",
+    "id": 10127,
+    "icon": "enemyinfo_ch0317"
+  },
+  {
+    "n": "フユ",
+    "v": "通常",
+    "id": 10128,
+    "icon": "enemyinfo_ch0318"
+  },
+  {
+    "n": "リツ",
+    "v": "通常",
+    "id": 20050,
+    "icon": "enemyinfo_ch0319"
+  },
+  {
+    "n": "レイサ",
+    "v": "マジカル",
+    "id": 20051,
+    "icon": "enemyinfo_ch0326"
+  },
+  {
+    "n": "スズミ",
+    "v": "マジカル",
+    "id": 10129,
+    "icon": "enemyinfo_ch0325"
+  },
+  {
+    "n": "ラブ",
+    "v": "通常",
+    "id": 16018,
+    "icon": "enemyinfo_ch0166"
+  },
+  {
+    "n": "スバル",
+    "v": "通常",
+    "id": 10130,
+    "icon": "enemyinfo_ch0309"
+  },
+  {
+    "n": "タカネ",
+    "v": "通常",
+    "id": 10131,
+    "icon": "enemyinfo_ch0229"
+  },
+  {
+    "n": "ヤクモ",
+    "v": "通常",
+    "id": 20052,
+    "icon": "enemyinfo_ch0228"
+  },
+  {
+    "n": "ツクヨ",
+    "v": "ドレス",
+    "id": 10132,
+    "icon": "enemyinfo_ch0297"
+  },
+  {
+    "n": "ミチル",
+    "v": "ドレス",
+    "id": 20053,
+    "icon": "enemyinfo_ch0296"
+  },
+  {
+    "n": "リオ",
+    "v": "臨戦",
+    "id": 10133,
+    "icon": "enemyinfo_ch0331"
+  },
+  {
+    "n": "トキ",
+    "v": "臨戦",
+    "id": 16019,
+    "icon": "enemyinfo_ch0333"
+  },
+  {
+    "n": "ヒマリ",
+    "v": "臨戦",
+    "id": 20054,
+    "icon": "enemyinfo_ch0332"
+  },
+  {
+    "n": "アリス",
+    "v": "臨戦",
+    "id": 10134,
+    "icon": "enemyinfo_ch0334"
+  },
+  {
+    "n": "ケイ",
+    "v": "通常",
+    "id": 10135,
+    "icon": "enemyinfo_ch0335"
+  },
+  {
+    "n": "エイミ",
+    "v": "臨戦",
+    "id": 10136,
+    "icon": "enemyinfo_ch0337"
+  },
+  {
+    "n": "ユズ",
+    "v": "臨戦",
+    "id": 20055,
+    "icon": "enemyinfo_ch0336"
+  },
+  {
+    "n": "コユキ",
+    "v": "パジャマ",
+    "id": 20056,
+    "icon": "enemyinfo_ch0310"
+  },
+  {
+    "n": "コノカ",
+    "v": "通常",
+    "id": 10137,
+    "icon": "enemyinfo_ch0264"
+  },
+  {
+    "n": "レナ",
+    "v": "通常",
+    "id": 10138,
+    "icon": "enemyinfo_ch0305"
+  },
+  {
+    "n": "アカネ",
+    "v": "制服",
+    "id": 20057,
+    "icon": "enemyinfo_ch0307"
+  },
+  {
+    "n": "ニコ",
+    "v": "通常",
+    "id": 10139,
+    "icon": "enemyinfo_ch0172"
+  },
+  {
+    "n": "クルミ",
+    "v": "通常",
+    "id": 10140,
+    "icon": "enemyinfo_ch0173"
+  },
+  {
+    "n": "オトギ",
+    "v": "通常",
+    "id": 16020,
+    "icon": "enemyinfo_ch0174"
+  },
+  {
+    "n": "エリカ",
+    "v": "通常",
+    "id": 20058,
+    "icon": "enemyinfo_ch0076"
+  },
+  {
+    "n": "ハルカ",
+    "v": "ドレス",
+    "id": 10141,
+    "icon": "enemyinfo_ch0247"
+  },
+  {
+    "n": "ムツキ",
+    "v": "ドレス",
+    "id": 20059,
+    "icon": "enemyinfo_ch0246"
+  },
+  {
+    "n": "ナグサ",
+    "v": "水着",
+    "id": 10142,
+    "icon": "enemyinfo_ch0303"
+  },
+  {
+    "n": "シュン",
+    "v": "水着",
+    "id": 10143,
+    "icon": "enemyinfo_ch0355_01"
+  },
+  {
+    "n": "キサキ",
+    "v": "水着",
+    "id": 10145,
+    "icon": "enemyinfo_ch0356"
+  },
+  {
+    "n": "マコト",
+    "v": "水着",
+    "id": 10146,
+    "icon": "enemyinfo_ch0344"
+  },
+  {
+    "n": "サツキ",
+    "v": "水着",
+    "id": 10147,
+    "icon": "enemyinfo_ch0345"
+  },
+  {
+    "n": "チアキ",
+    "v": "水着",
+    "id": 26016,
+    "icon": "enemyinfo_ch0348"
+  },
+  {
+    "n": "イロハ",
+    "v": "水着",
+    "id": 10148,
+    "icon": "enemyinfo_ch0346"
+  },
+  {
+    "n": "イブキ",
+    "v": "水着",
+    "id": 20060,
+    "icon": "enemyinfo_ch0347"
+  },
+  {
+    "n": "ココロ",
+    "v": "通常",
+    "id": 10149,
+    "icon": "enemyinfo_ch0368"
+  },
+  {
+    "n": "コトネ",
+    "v": "通常",
+    "id": 10150,
+    "icon": "enemyinfo_ch0369"
+  },
+  {
+    "n": "カスミ",
+    "v": "水着",
+    "id": 20061,
+    "icon": "enemyinfo_ch0328"
+  },
+  {
+    "n": "アンナ",
+    "v": "通常",
+    "id": 10151,
+    "icon": "enemyinfo_ch0320"
+  },
+  {
+    "n": "エリナ",
+    "v": "通常",
+    "id": 20062,
+    "icon": "enemyinfo_ch0321"
+  },
+  {
+    "n": "ツムギ",
+    "v": "通常",
+    "id": 10152,
+    "icon": "enemyinfo_ch0252"
+  },
+  {
+    "n": "ヒフミ",
+    "v": "レーシング",
+    "id": 10153,
+    "icon": "enemyinfo_ch0379"
+  },
+  {
+    "n": "アズサ",
+    "v": "レーシング",
+    "id": 20063,
+    "icon": "enemyinfo_ch0380"
+  },
+  {
+    "n": "ラナ",
+    "v": "通常",
+    "id": 26017,
+    "icon": "enemyinfo_ch0322"
+  },
+  {
+    "n": "マナミ",
+    "v": "通常",
+    "id": 10154,
+    "icon": "enemyinfo_ch0339"
+  },
+  {
+    "n": "ウララ",
+    "v": "通常",
+    "id": 20064,
+    "icon": "enemyinfo_ch0340"
+  }
+]
