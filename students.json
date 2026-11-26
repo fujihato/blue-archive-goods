@@ -3,1662 +3,2493 @@
     "n": "アル",
     "v": "通常",
     "id": 10000,
-    "icon": "enemyinfo_aru_sr"
+    "icon": "enemyinfo_aru_sr",
+    "birthday": "3/12",
+    "school": "Gehenna",
+    "order": 0
   },
   {
     "n": "エイミ",
     "v": "通常",
     "id": 10001,
-    "icon": "enemyinfo_eimi_sg"
+    "icon": "enemyinfo_eimi_sg",
+    "birthday": "5/1",
+    "school": "Millennium",
+    "order": 1
   },
   {
     "n": "ハルナ",
     "v": "通常",
     "id": 10002,
-    "icon": "enemyinfo_haruna_sr"
+    "icon": "enemyinfo_haruna_sr",
+    "birthday": "3/1",
+    "school": "Gehenna",
+    "order": 2
   },
   {
     "n": "ヒフミ",
     "v": "通常",
     "id": 10003,
-    "icon": "enemyinfo_hihumi_ar"
+    "icon": "enemyinfo_hihumi_ar",
+    "birthday": "11/27",
+    "school": "Trinity",
+    "order": 3
   },
   {
     "n": "ヒナ",
     "v": "通常",
     "id": 10004,
-    "icon": "enemyinfo_hina_mg"
+    "icon": "enemyinfo_hina_mg",
+    "birthday": "2/19",
+    "school": "Gehenna",
+    "order": 4
   },
   {
     "n": "ホシノ",
     "v": "通常",
     "id": 10005,
-    "icon": "enemyinfo_hoshino_sg"
+    "icon": "enemyinfo_hoshino_sg",
+    "birthday": "1/2",
+    "school": "Abydos",
+    "order": 5
   },
   {
     "n": "イオリ",
     "v": "通常",
     "id": 10006,
-    "icon": "enemyinfo_iori_sr"
+    "icon": "enemyinfo_iori_sr",
+    "birthday": "11/8",
+    "school": "Gehenna",
+    "order": 6
   },
   {
     "n": "マキ",
     "v": "通常",
     "id": 10007,
-    "icon": "enemyinfo_maki_mg"
+    "icon": "enemyinfo_maki_mg",
+    "birthday": "8/1",
+    "school": "Millennium",
+    "order": 7
   },
   {
     "n": "ネル",
     "v": "通常",
     "id": 10008,
-    "icon": "enemyinfo_neru_smg"
+    "icon": "enemyinfo_neru_smg",
+    "birthday": "8/17",
+    "school": "Millennium",
+    "order": 8
   },
   {
     "n": "イズミ",
     "v": "通常",
     "id": 10009,
-    "icon": "enemyinfo_izumi_mg"
+    "icon": "enemyinfo_izumi_mg",
+    "birthday": "5/11",
+    "school": "Gehenna",
+    "order": 9
   },
   {
     "n": "シロコ",
     "v": "通常",
     "id": 10010,
-    "icon": "enemyinfo_shiroko_ar"
+    "icon": "enemyinfo_shiroko_ar",
+    "birthday": "5/16",
+    "school": "Abydos",
+    "order": 10
   },
   {
     "n": "シュン",
     "v": "通常",
     "id": 10011,
-    "icon": "enemyinfo_shun_sr"
+    "icon": "enemyinfo_shun_sr",
+    "birthday": "2/5",
+    "school": "Shanhaijing",
+    "order": 11
   },
   {
     "n": "スミレ",
     "v": "通常",
     "id": 10012,
-    "icon": "enemyinfo_sumire_sg"
+    "icon": "enemyinfo_sumire_sg",
+    "birthday": "8/20",
+    "school": "Millennium",
+    "order": 12
   },
   {
     "n": "ツルギ",
     "v": "通常",
     "id": 10013,
-    "icon": "enemyinfo_tsurugi_sg"
+    "icon": "enemyinfo_tsurugi_sg",
+    "birthday": "6/24",
+    "school": "Trinity",
+    "order": 13
   },
   {
     "n": "アカネ",
     "v": "通常",
     "id": 13000,
-    "icon": "enemyinfo_akane_hg"
+    "icon": "enemyinfo_akane_hg",
+    "birthday": "4/1",
+    "school": "Millennium",
+    "order": 14
   },
   {
     "n": "チセ",
     "v": "通常",
     "id": 13001,
-    "icon": "enemyinfo_chise_gl"
+    "icon": "enemyinfo_chise_gl",
+    "birthday": "7/13",
+    "school": "Hyakkiyako",
+    "order": 15
   },
   {
     "n": "アカリ",
     "v": "通常",
     "id": 13002,
-    "icon": "enemyinfo_akari_ar"
+    "icon": "enemyinfo_akari_ar",
+    "birthday": "12/9",
+    "school": "Gehenna",
+    "order": 16
   },
   {
     "n": "ハスミ",
     "v": "通常",
     "id": 13003,
-    "icon": "enemyinfo_hasumi_sr"
+    "icon": "enemyinfo_hasumi_sr",
+    "birthday": "12/12",
+    "school": "Trinity",
+    "order": 17
   },
   {
     "n": "ノノミ",
     "v": "通常",
     "id": 13004,
-    "icon": "enemyinfo_nonomi_mg"
+    "icon": "enemyinfo_nonomi_mg",
+    "birthday": "9/1",
+    "school": "Abydos",
+    "order": 18
   },
   {
     "n": "カヨコ",
     "v": "通常",
     "id": 13005,
-    "icon": "enemyinfo_kayoko_hg"
+    "icon": "enemyinfo_kayoko_hg",
+    "birthday": "3/17",
+    "school": "Gehenna",
+    "order": 19
   },
   {
     "n": "ムツキ",
     "v": "通常",
     "id": 13006,
-    "icon": "enemyinfo_mutsuki_hmg"
+    "icon": "enemyinfo_mutsuki_hmg",
+    "birthday": "7/29",
+    "school": "Gehenna",
+    "order": 20
   },
   {
     "n": "ジュンコ",
     "v": "通常",
     "id": 13007,
-    "icon": "enemyinfo_zunko_ar"
+    "icon": "enemyinfo_zunko_ar",
+    "birthday": "12/27",
+    "school": "Gehenna",
+    "order": 21
   },
   {
     "n": "セリカ",
     "v": "通常",
     "id": 13008,
-    "icon": "enemyinfo_serika_ar"
+    "icon": "enemyinfo_serika_ar",
+    "birthday": "6/25",
+    "school": "Abydos",
+    "order": 22
   },
   {
     "n": "ツバキ",
     "v": "通常",
     "id": 13009,
-    "icon": "enemyinfo_tsubaki_smg"
+    "icon": "enemyinfo_tsubaki_smg",
+    "birthday": "2/3",
+    "school": "Hyakkiyako",
+    "order": 23
   },
   {
     "n": "ユウカ",
     "v": "通常",
     "id": 13010,
-    "icon": "enemyinfo_yuuka_smg"
+    "icon": "enemyinfo_yuuka_smg",
+    "birthday": "3/14",
+    "school": "Millennium",
+    "order": 24
   },
   {
     "n": "ハルカ",
     "v": "通常",
     "id": 16000,
-    "icon": "enemyinfo_haruka_sg"
+    "icon": "enemyinfo_haruka_sg",
+    "birthday": "5/13",
+    "school": "Gehenna",
+    "order": 25
   },
   {
     "n": "アスナ",
     "v": "通常",
     "id": 16001,
-    "icon": "enemyinfo_asuna_ar"
+    "icon": "enemyinfo_asuna_ar",
+    "birthday": "3/24",
+    "school": "Millennium",
+    "order": 26
   },
   {
     "n": "コトリ",
     "v": "通常",
     "id": 16002,
-    "icon": "enemyinfo_kotori_mg"
+    "icon": "enemyinfo_kotori_mg",
+    "birthday": "12/31",
+    "school": "Millennium",
+    "order": 27
   },
   {
     "n": "スズミ",
     "v": "通常",
     "id": 16003,
-    "icon": "enemyinfo_suzumi_ar"
+    "icon": "enemyinfo_suzumi_ar",
+    "birthday": "8/31",
+    "school": "Trinity",
+    "order": 28
   },
   {
     "n": "フィーナ",
     "v": "通常",
     "id": 16004,
-    "icon": "enemyinfo_pina_mg"
+    "icon": "enemyinfo_pina_mg",
+    "birthday": "11/3",
+    "school": "Hyakkiyako",
+    "order": 29
   },
   {
     "n": "ヒビキ",
     "v": "通常",
     "id": 20000,
-    "icon": "enemyinfo_hibiki_mt"
+    "icon": "enemyinfo_hibiki_mt",
+    "birthday": "4/2",
+    "school": "Millennium",
+    "order": 30
   },
   {
     "n": "カリン",
     "v": "通常",
     "id": 20001,
-    "icon": "enemyinfo_karin_sr"
+    "icon": "enemyinfo_karin_sr",
+    "birthday": "2/2",
+    "school": "Millennium",
+    "order": 31
   },
   {
     "n": "サヤ",
     "v": "通常",
     "id": 20002,
-    "icon": "enemyinfo_saya_original"
+    "icon": "enemyinfo_saya_original",
+    "birthday": "1/3",
+    "school": "Shanhaijing",
+    "order": 32
   },
   {
     "n": "アイリ",
     "v": "通常",
     "id": 23000,
-    "icon": "enemyinfo_airi_smg"
+    "icon": "enemyinfo_airi_smg",
+    "birthday": "1/30",
+    "school": "Trinity",
+    "order": 33
   },
   {
     "n": "フウカ",
     "v": "通常",
     "id": 23001,
-    "icon": "enemyinfo_fuuka_smg"
+    "icon": "enemyinfo_fuuka_smg",
+    "birthday": "4/30",
+    "school": "Gehenna",
+    "order": 34
   },
   {
     "n": "ハナエ",
     "v": "通常",
     "id": 23002,
-    "icon": "enemyinfo_hanae_ar"
+    "icon": "enemyinfo_hanae_ar",
+    "birthday": "5/12",
+    "school": "Trinity",
+    "order": 35
   },
   {
     "n": "ハレ",
     "v": "通常",
     "id": 23003,
-    "icon": "enemyinfo_hare_ar"
+    "icon": "enemyinfo_hare_ar",
+    "birthday": "4/19",
+    "school": "Millennium",
+    "order": 36
   },
   {
     "n": "ウタハ",
     "v": "通常",
     "id": 23004,
-    "icon": "enemyinfo_utaha_smg"
+    "icon": "enemyinfo_utaha_smg",
+    "birthday": "11/13",
+    "school": "Millennium",
+    "order": 37
   },
   {
     "n": "アヤネ",
     "v": "通常",
     "id": 23005,
-    "icon": "enemyinfo_ayane_hg"
+    "icon": "enemyinfo_ayane_hg",
+    "birthday": "11/12",
+    "school": "Abydos",
+    "order": 38
   },
   {
     "n": "チナツ",
     "v": "通常",
     "id": 26000,
-    "icon": "enemyinfo_chinatsu_hg"
+    "icon": "enemyinfo_chinatsu_hg",
+    "birthday": "8/22",
+    "school": "Gehenna",
+    "order": 39
   },
   {
     "n": "コタマ",
     "v": "通常",
     "id": 26001,
-    "icon": null
+    "icon": null,
+    "birthday": "1/5",
+    "school": "Millennium",
+    "order": 40
   },
   {
     "n": "ジュリ",
     "v": "通常",
     "id": 26002,
-    "icon": "enemyinfo_juri_sg"
+    "icon": "enemyinfo_juri_sg",
+    "birthday": "10/20",
+    "school": "Gehenna",
+    "order": 41
   },
   {
     "n": "セリナ",
     "v": "通常",
     "id": 26003,
-    "icon": "enemyinfo_serina_ar"
+    "icon": "enemyinfo_serina_ar",
+    "birthday": "1/6",
+    "school": "Trinity",
+    "order": 42
   },
   {
     "n": "シミコ",
     "v": "通常",
     "id": 26004,
-    "icon": "enemyinfo_shimiko_ar"
+    "icon": "enemyinfo_shimiko_ar",
+    "birthday": "11/30",
+    "school": "Trinity",
+    "order": 43
   },
   {
     "n": "ヨシミ",
     "v": "通常",
     "id": 26005,
-    "icon": "enemyinfo_yoshimi_ar"
+    "icon": "enemyinfo_yoshimi_ar",
+    "birthday": "8/29",
+    "school": "Trinity",
+    "order": 44
   },
   {
     "n": "マシロ",
     "v": "通常",
     "id": 20003,
-    "icon": "enemyinfo_mashiro_sr"
+    "icon": "enemyinfo_mashiro_sr",
+    "birthday": "6/5",
+    "school": "Trinity",
+    "order": 45
   },
   {
     "n": "イズナ",
     "v": "通常",
     "id": 10014,
-    "icon": "enemyinfo_izuna_smg"
+    "icon": "enemyinfo_izuna_smg",
+    "birthday": "12/16",
+    "school": "Hyakkiyako",
+    "order": 46
   },
   {
     "n": "シズコ",
     "v": "通常",
     "id": 23006,
-    "icon": "enemyinfo_shizuko_hg"
+    "icon": "enemyinfo_shizuko_hg",
+    "birthday": "7/7",
+    "school": "Hyakkiyako",
+    "order": 47
   },
   {
     "n": "アリス",
     "v": "通常",
     "id": 10015,
-    "icon": "enemyinfo_aris_rg"
+    "icon": "enemyinfo_aris_rg",
+    "birthday": "3/25",
+    "school": "Millennium",
+    "order": 48
   },
   {
     "n": "ミドリ",
     "v": "通常",
     "id": 10016,
-    "icon": "enemyinfo_midori_sr"
+    "icon": "enemyinfo_midori_sr",
+    "birthday": "12/8",
+    "school": "Millennium",
+    "order": 49
   },
   {
     "n": "モモイ",
     "v": "通常",
     "id": 13011,
-    "icon": "enemyinfo_momoi_ar"
+    "icon": "enemyinfo_momoi_ar",
+    "birthday": "12/8",
+    "school": "Millennium",
+    "order": 50
   },
   {
     "n": "チェリノ",
     "v": "通常",
     "id": 10017,
-    "icon": "enemyinfo_cherino_hg"
+    "icon": "enemyinfo_cherino_hg",
+    "birthday": "10/27",
+    "school": "RedWinter",
+    "order": 51
   },
   {
     "n": "ノドカ",
     "v": "通常",
     "id": 26006,
-    "icon": "enemyinfo_nodoka_original_smg"
+    "icon": "enemyinfo_nodoka_original_smg",
+    "birthday": "2/20",
+    "school": "RedWinter",
+    "order": 52
   },
   {
     "n": "ユズ",
     "v": "通常",
     "id": 10018,
-    "icon": "enemyinfo_yuzu_gl"
+    "icon": "enemyinfo_yuzu_gl",
+    "birthday": "8/12",
+    "school": "Millennium",
+    "order": 53
   },
   {
     "n": "アズサ",
     "v": "通常",
     "id": 10019,
-    "icon": "enemyinfo_azusa_ar"
+    "icon": "enemyinfo_azusa_ar",
+    "birthday": "12/26",
+    "school": "Trinity",
+    "order": 54
   },
   {
     "n": "ハナコ",
     "v": "通常",
     "id": 23007,
-    "icon": "enemyinfo_hanako_ar"
+    "icon": "enemyinfo_hanako_ar",
+    "birthday": "1/3",
+    "school": "Trinity",
+    "order": 55
   },
   {
     "n": "コハル",
     "v": "通常",
     "id": 10020,
-    "icon": "enemyinfo_koharu_sr"
+    "icon": "enemyinfo_koharu_sr",
+    "birthday": "4/16",
+    "school": "Trinity",
+    "order": 56
   },
   {
     "n": "アズサ",
     "v": "水着",
     "id": 10021,
-    "icon": null
+    "icon": null,
+    "birthday": "12/26",
+    "school": "Trinity",
+    "order": 57
   },
   {
     "n": "マシロ",
     "v": "水着",
     "id": 20004,
-    "icon": null
+    "icon": null,
+    "birthday": "6/5",
+    "school": "Trinity",
+    "order": 58
   },
   {
     "n": "ツルギ",
     "v": "水着",
     "id": 16005,
-    "icon": null
+    "icon": null,
+    "birthday": "6/24",
+    "school": "Trinity",
+    "order": 59
   },
   {
     "n": "ヒフミ",
     "v": "水着",
     "id": 20005,
-    "icon": "enemyinfo_ch0058_ar"
+    "icon": "enemyinfo_ch0058_ar",
+    "birthday": "11/27",
+    "school": "Trinity",
+    "order": 60
   },
   {
     "n": "ヒナ",
     "v": "水着",
     "id": 10022,
-    "icon": null
+    "icon": null,
+    "birthday": "2/19",
+    "school": "Gehenna",
+    "order": 61
   },
   {
     "n": "イオリ",
     "v": "水着",
     "id": 10023,
-    "icon": null
+    "icon": null,
+    "birthday": "11/8",
+    "school": "Gehenna",
+    "order": 62
   },
   {
     "n": "イズミ",
     "v": "水着",
     "id": 16006,
-    "icon": "enemyinfo_izumi_swimsuit_mg"
+    "icon": "enemyinfo_izumi_swimsuit_mg",
+    "birthday": "5/11",
+    "school": "Gehenna",
+    "order": 63
   },
   {
     "n": "シロコ",
     "v": "ライディング",
     "id": 10024,
-    "icon": null
+    "icon": null,
+    "birthday": "5/16",
+    "school": "Abydos",
+    "order": 64
   },
   {
     "n": "シュン",
     "v": "幼女",
     "id": 10025,
-    "icon": "enemyinfo_ch0066"
+    "icon": "enemyinfo_ch0066",
+    "birthday": "2/5",
+    "school": "Shanhaijing",
+    "order": 65
   },
   {
     "n": "キリノ",
     "v": "通常",
     "id": 13012,
-    "icon": "enemyinfo_kirino_hg"
+    "icon": "enemyinfo_kirino_hg",
+    "birthday": "10/22",
+    "school": "Valkyrie",
+    "order": 66
   },
   {
     "n": "サヤ",
     "v": "私服",
     "id": 20006,
-    "icon": "enemyinfo_saya_casual"
+    "icon": "enemyinfo_saya_casual",
+    "birthday": "1/3",
+    "school": "Shanhaijing",
+    "order": 67
   },
   {
     "n": "ネル",
     "v": "バニーガール",
     "id": 10026,
-    "icon": null
+    "icon": null,
+    "birthday": "8/17",
+    "school": "Millennium",
+    "order": 68
   },
   {
     "n": "カリン",
     "v": "バニーガール",
     "id": 10027,
-    "icon": null
+    "icon": null,
+    "birthday": "2/2",
+    "school": "Millennium",
+    "order": 69
   },
   {
     "n": "アスナ",
     "v": "バニーガール",
     "id": 10028,
-    "icon": null
+    "icon": null,
+    "birthday": "3/24",
+    "school": "Millennium",
+    "order": 70
   },
   {
     "n": "ナツ",
     "v": "通常",
     "id": 10029,
-    "icon": "enemyinfo_ch0155_smg"
+    "icon": "enemyinfo_ch0155_smg",
+    "birthday": "12/4",
+    "school": "Trinity",
+    "order": 71
   },
   {
     "n": "マリー",
     "v": "通常",
     "id": 23008,
-    "icon": "enemyinfo_mari_hg"
+    "icon": "enemyinfo_mari_hg",
+    "birthday": "9/12",
+    "school": "Trinity",
+    "order": 72
   },
   {
     "n": "アコ",
     "v": "通常",
     "id": 20008,
-    "icon": "enemyinfo_ako_hg"
+    "icon": "enemyinfo_ako_hg",
+    "birthday": "12/22",
+    "school": "Gehenna",
+    "order": 74
   },
   {
     "n": "チェリノ",
     "v": "温泉",
     "id": 20009,
-    "icon": null
+    "icon": null,
+    "birthday": "10/27",
+    "school": "RedWinter",
+    "order": 75
   },
   {
     "n": "チナツ",
     "v": "温泉",
     "id": 10030,
-    "icon": "enemyinfo_ch0163"
+    "icon": "enemyinfo_ch0163",
+    "birthday": "8/22",
+    "school": "Gehenna",
+    "order": 76
   },
   {
     "n": "トモエ",
     "v": "通常",
     "id": 16007,
-    "icon": "enemyinfo_tomoe_sr"
+    "icon": "enemyinfo_tomoe_sr",
+    "birthday": "11/10",
+    "school": "RedWinter",
+    "order": 77
   },
   {
     "n": "ノドカ",
     "v": "温泉",
     "id": 20010,
-    "icon": null
+    "icon": null,
+    "birthday": "2/20",
+    "school": "RedWinter",
+    "order": 78
   },
   {
     "n": "アル",
     "v": "正月",
     "id": 10031,
-    "icon": null
+    "icon": null,
+    "birthday": "3/12",
+    "school": "Gehenna",
+    "order": 79
   },
   {
     "n": "ムツキ",
     "v": "正月",
     "id": 10032,
-    "icon": null
+    "icon": null,
+    "birthday": "7/29",
+    "school": "Gehenna",
+    "order": 80
   },
   {
     "n": "セリカ",
     "v": "正月",
     "id": 20011,
-    "icon": null
+    "icon": null,
+    "birthday": "6/25",
+    "school": "Abydos",
+    "order": 81
   },
   {
     "n": "ワカモ",
     "v": "通常",
     "id": 10033,
-    "icon": "enemyinfo_wakamo_sr"
+    "icon": "enemyinfo_wakamo_sr",
+    "birthday": "4/3",
+    "school": "Hyakkiyako",
+    "order": 82
   },
   {
     "n": "フブキ",
     "v": "通常",
     "id": 16008,
-    "icon": "enemyinfo_fubuki_sr"
+    "icon": "enemyinfo_fubuki_sr",
+    "birthday": "10/21",
+    "school": "Valkyrie",
+    "order": 83
   },
   {
     "n": "セナ",
     "v": "通常",
     "id": 20012,
-    "icon": "enemyinfo_ch0081_gl"
+    "icon": "enemyinfo_ch0081_gl",
+    "birthday": "4/7",
+    "school": "Gehenna",
+    "order": 84
   },
   {
     "n": "チヒロ",
     "v": "通常",
     "id": 20013,
-    "icon": "enemyinfo_ch0160_ar"
+    "icon": "enemyinfo_ch0160_ar",
+    "birthday": "4/26",
+    "school": "Millennium",
+    "order": 85
   },
   {
     "n": "ミモリ",
     "v": "通常",
     "id": 10034,
-    "icon": "enemyinfo_mimori_hg"
+    "icon": "enemyinfo_mimori_hg",
+    "birthday": "3/15",
+    "school": "Hyakkiyako",
+    "order": 86
   },
   {
     "n": "ウイ",
     "v": "通常",
     "id": 10035,
-    "icon": null
+    "icon": null,
+    "birthday": "4/23",
+    "school": "Trinity",
+    "order": 87
   },
   {
     "n": "ヒナタ",
     "v": "通常",
     "id": 10036,
-    "icon": "enemyinfo_hinata_hg"
+    "icon": "enemyinfo_hinata_hg",
+    "birthday": "5/17",
+    "school": "Trinity",
+    "order": 88
   },
   {
     "n": "マリナ",
     "v": "通常",
     "id": 10037,
-    "icon": "enemyinfo_marina_original_smg"
+    "icon": "enemyinfo_marina_original_smg",
+    "birthday": "11/4",
+    "school": "RedWinter",
+    "order": 89
   },
   {
     "n": "ミヤコ",
     "v": "通常",
     "id": 10038,
-    "icon": "enemyinfo_miyako_smg"
+    "icon": "enemyinfo_miyako_smg",
+    "birthday": "1/7",
+    "school": "SRT",
+    "order": 90
   },
   {
     "n": "サキ",
     "v": "通常",
     "id": 20014,
-    "icon": "enemyinfo_saki_mg"
+    "icon": "enemyinfo_saki_mg",
+    "birthday": "4/9",
+    "school": "SRT",
+    "order": 91
   },
   {
     "n": "ミユ",
     "v": "通常",
     "id": 10039,
-    "icon": "enemyinfo_miyu_sr"
+    "icon": "enemyinfo_miyu_sr",
+    "birthday": "7/12",
+    "school": "SRT",
+    "order": 92
   },
   {
     "n": "カエデ",
     "v": "通常",
     "id": 20015,
-    "icon": "enemyinfo_kaede_hg"
+    "icon": "enemyinfo_kaede_hg",
+    "birthday": "7/9",
+    "school": "Hyakkiyako",
+    "order": 93
   },
   {
     "n": "イロハ",
     "v": "通常",
     "id": 20016,
-    "icon": "enemyinfo_ch0156_hg"
+    "icon": "enemyinfo_ch0156_hg",
+    "birthday": "11/16",
+    "school": "Gehenna",
+    "order": 94
   },
   {
     "n": "ミチル",
     "v": "通常",
     "id": 16009,
-    "icon": null
+    "icon": null,
+    "birthday": "2/22",
+    "school": "Hyakkiyako",
+    "order": 95
   },
   {
     "n": "ツクヨ",
     "v": "通常",
     "id": 10040,
-    "icon": null
+    "icon": null,
+    "birthday": "4/5",
+    "school": "Hyakkiyako",
+    "order": 96
   },
   {
     "n": "ミサキ",
     "v": "通常",
     "id": 10041,
-    "icon": "enemyinfo_misaki_rl"
+    "icon": "enemyinfo_misaki_rl",
+    "birthday": "1/13",
+    "school": "Arius",
+    "order": 97
   },
   {
     "n": "ヒヨリ",
     "v": "通常",
     "id": 20017,
-    "icon": "enemyinfo_hiyori_sr"
+    "icon": "enemyinfo_hiyori_sr",
+    "birthday": "1/8",
+    "school": "Arius",
+    "order": 98
   },
   {
     "n": "アツコ",
     "v": "通常",
     "id": 10042,
-    "icon": "enemyinfo_atsuko_smg"
+    "icon": "enemyinfo_atsuko_smg",
+    "birthday": "1/20",
+    "school": "Arius",
+    "order": 99
   },
   {
     "n": "ワカモ",
     "v": "水着",
     "id": 10043,
-    "icon": "enemyinfo_wakamo_swimsuit_original"
+    "icon": "enemyinfo_wakamo_swimsuit_original",
+    "birthday": "4/3",
+    "school": "Hyakkiyako",
+    "order": 100
   },
   {
     "n": "ノノミ",
     "v": "水着",
     "id": 10044,
-    "icon": null
+    "icon": null,
+    "birthday": "9/1",
+    "school": "Abydos",
+    "order": 101
   },
   {
     "n": "アヤネ",
     "v": "水着",
     "id": 26007,
-    "icon": "enemyinfo_ch0176"
+    "icon": "enemyinfo_ch0176",
+    "birthday": "11/12",
+    "school": "Abydos",
+    "order": 102
   },
   {
     "n": "ホシノ",
     "v": "水着",
     "id": 10045,
-    "icon": null
+    "icon": null,
+    "birthday": "1/2",
+    "school": "Abydos",
+    "order": 103
   },
   {
     "n": "シズコ",
     "v": "水着",
     "id": 26008,
-    "icon": null
+    "icon": null,
+    "birthday": "7/7",
+    "school": "Hyakkiyako",
+    "order": 104
   },
   {
     "n": "イズナ",
     "v": "水着",
     "id": 10046,
-    "icon": null
+    "icon": null,
+    "birthday": "12/16",
+    "school": "Hyakkiyako",
+    "order": 105
   },
   {
     "n": "チセ",
     "v": "水着",
     "id": 10047,
-    "icon": null
+    "icon": null,
+    "birthday": "7/13",
+    "school": "Hyakkiyako",
+    "order": 106
   },
   {
     "n": "サオリ",
     "v": "通常",
     "id": 10048,
-    "icon": "enemyinfo_saori_ar"
+    "icon": "enemyinfo_saori_ar",
+    "birthday": "9/3",
+    "school": "Arius",
+    "order": 107
   },
   {
     "n": "モエ",
     "v": "通常",
     "id": 20018,
-    "icon": "enemyinfo_moe"
+    "icon": "enemyinfo_moe",
+    "birthday": "9/13",
+    "school": "SRT",
+    "order": 108
   },
   {
     "n": "カズサ",
     "v": "通常",
     "id": 10049,
-    "icon": "enemyinfo_kazusa_mg"
+    "icon": "enemyinfo_kazusa_mg",
+    "birthday": "8/5",
+    "school": "Trinity",
+    "order": 109
   },
   {
     "n": "ココナ",
     "v": "通常",
     "id": 10050,
-    "icon": "enemyinfo_ch0137"
+    "icon": "enemyinfo_ch0137",
+    "birthday": "6/1",
+    "school": "Shanhaijing",
+    "order": 110
   },
   {
     "n": "ウタハ",
     "v": "応援団",
     "id": 10051,
-    "icon": null
+    "icon": null,
+    "birthday": "11/13",
+    "school": "Millennium",
+    "order": 111
   },
   {
     "n": "ノア",
     "v": "通常",
     "id": 10052,
-    "icon": "enemyinfo_ch0095"
+    "icon": "enemyinfo_ch0095",
+    "birthday": "4/13",
+    "school": "Millennium",
+    "order": 112
   },
   {
     "n": "ヒビキ",
     "v": "応援団",
     "id": 16010,
-    "icon": null
+    "icon": null,
+    "birthday": "4/2",
+    "school": "Millennium",
+    "order": 113
   },
   {
     "n": "アカネ",
     "v": "バニーガール",
     "id": 20019,
-    "icon": null
+    "icon": null,
+    "birthday": "4/1",
+    "school": "Millennium",
+    "order": 114
   },
   {
     "n": "ユウカ",
     "v": "体操服",
     "id": 10053,
-    "icon": null
+    "icon": null,
+    "birthday": "3/14",
+    "school": "Millennium",
+    "order": 115
   },
   {
     "n": "マリー",
     "v": "体操服",
     "id": 10054,
-    "icon": null
+    "icon": null,
+    "birthday": "9/12",
+    "school": "Trinity",
+    "order": 116
   },
   {
     "n": "ハスミ",
     "v": "体操服",
     "id": 16011,
-    "icon": null
+    "icon": null,
+    "birthday": "12/12",
+    "school": "Trinity",
+    "order": 117
   },
   {
     "n": "ヒマリ",
     "v": "通常",
     "id": 20020,
-    "icon": "enemyinfo_ch0159"
+    "icon": "enemyinfo_ch0159",
+    "birthday": "12/10",
+    "school": "Millennium",
+    "order": 118
   },
   {
     "n": "シグレ",
     "v": "通常",
     "id": 10055,
-    "icon": "enemyinfo_shigure_original_gl"
+    "icon": "enemyinfo_shigure_original_gl",
+    "birthday": "1/22",
+    "school": "RedWinter",
+    "order": 119
   },
   {
     "n": "セリナ",
     "v": "クリスマス",
     "id": 10056,
-    "icon": null
+    "icon": null,
+    "birthday": "1/6",
+    "school": "Trinity",
+    "order": 120
   },
   {
     "n": "ハナエ",
     "v": "クリスマス",
     "id": 20021,
-    "icon": null
+    "icon": null,
+    "birthday": "5/12",
+    "school": "Trinity",
+    "order": 121
   },
   {
     "n": "ハルナ",
     "v": "正月",
     "id": 10057,
-    "icon": null
+    "icon": null,
+    "birthday": "3/1",
+    "school": "Gehenna",
+    "order": 122
   },
   {
     "n": "フウカ",
     "v": "正月",
     "id": 20022,
-    "icon": null
+    "icon": null,
+    "birthday": "4/30",
+    "school": "Gehenna",
+    "order": 123
   },
   {
     "n": "ジュンコ",
     "v": "正月",
     "id": 16012,
-    "icon": null
+    "icon": null,
+    "birthday": "12/27",
+    "school": "Gehenna",
+    "order": 124
   },
   {
     "n": "ミネ",
     "v": "通常",
     "id": 10058,
-    "icon": null
+    "icon": null,
+    "birthday": "11/23",
+    "school": "Trinity",
+    "order": 125
   },
   {
     "n": "ミカ",
     "v": "通常",
     "id": 10059,
-    "icon": "enemyinfo_mikaenemy_smg"
+    "icon": "enemyinfo_mikaenemy_smg",
+    "birthday": "5/8",
+    "school": "Trinity",
+    "order": 126
   },
   {
     "n": "メグ",
     "v": "通常",
     "id": 10060,
-    "icon": "enemyinfo_megu_onsendev_ft"
+    "icon": "enemyinfo_megu_onsendev_ft",
+    "birthday": "4/25",
+    "school": "Gehenna",
+    "order": 127
   },
   {
     "n": "カンナ",
     "v": "通常",
     "id": 20023,
-    "icon": null
+    "icon": null,
+    "birthday": "9/7",
+    "school": "Valkyrie",
+    "order": 128
   },
   {
     "n": "サクラコ",
     "v": "通常",
     "id": 10061,
-    "icon": null
+    "icon": null,
+    "birthday": "10/4",
+    "school": "Trinity",
+    "order": 129
   },
   {
     "n": "トキ",
     "v": "通常",
     "id": 10062,
-    "icon": "enemyinfo_toki_cnc_mg_boss"
+    "icon": "enemyinfo_toki_cnc_mg_boss",
+    "birthday": "8/16",
+    "school": "Millennium",
+    "order": 130
   },
   {
     "n": "ナギサ",
     "v": "通常",
     "id": 20024,
-    "icon": null
+    "icon": null,
+    "birthday": "7/4",
+    "school": "Trinity",
+    "order": 131
   },
   {
     "n": "コユキ",
     "v": "通常",
     "id": 10063,
-    "icon": "enemyinfo_ch0198"
+    "icon": "enemyinfo_ch0198",
+    "birthday": "2/14",
+    "school": "Millennium",
+    "order": 132
   },
   {
     "n": "カヨコ",
     "v": "正月",
     "id": 10064,
-    "icon": null
+    "icon": null,
+    "birthday": "3/17",
+    "school": "Gehenna",
+    "order": 133
   },
   {
     "n": "ハルカ",
     "v": "正月",
     "id": 20025,
-    "icon": null
+    "icon": null,
+    "birthday": "5/13",
+    "school": "Gehenna",
+    "order": 134
   },
   {
     "n": "カホ",
     "v": "通常",
     "id": 10065,
-    "icon": null
+    "icon": null,
+    "birthday": "10/9",
+    "school": "Hyakkiyako",
+    "order": 135
   },
   {
     "n": "アリス",
     "v": "メイド",
     "id": 10066,
-    "icon": "enemyinfo_ch0200"
+    "icon": "enemyinfo_ch0200",
+    "birthday": "3/25",
+    "school": "Millennium",
+    "order": 136
   },
   {
     "n": "トキ",
     "v": "バニーガール",
     "id": 10067,
-    "icon": "enemyinfo_ch0211"
+    "icon": "enemyinfo_ch0211",
+    "birthday": "8/16",
+    "school": "Millennium",
+    "order": 137
   },
   {
     "n": "ユズ",
     "v": "メイド",
     "id": 26009,
-    "icon": "enemyinfo_ch0203"
+    "icon": "enemyinfo_ch0203",
+    "birthday": "8/12",
+    "school": "Millennium",
+    "order": 138
   },
   {
     "n": "レイサ",
     "v": "通常",
     "id": 10068,
-    "icon": null
+    "icon": null,
+    "birthday": "5/31",
+    "school": "Trinity",
+    "order": 139
   },
   {
     "n": "ルミ",
     "v": "通常",
     "id": 10069,
-    "icon": "enemyinfo_ch0135"
+    "icon": "enemyinfo_ch0135",
+    "birthday": "3/5",
+    "school": "Shanhaijing",
+    "order": 140
   },
   {
     "n": "ミナ",
     "v": "通常",
     "id": 10070,
-    "icon": "enemyinfo_ch0138"
+    "icon": "enemyinfo_ch0138",
+    "birthday": "9/9",
+    "school": "Shanhaijing",
+    "order": 141
   },
   {
     "n": "ミノリ",
     "v": "通常",
     "id": 20026,
-    "icon": "enemyinfo_ch0214"
+    "icon": "enemyinfo_ch0214",
+    "birthday": "7/14",
+    "school": "RedWinter",
+    "order": 142
   },
   {
     "n": "ミヤコ",
     "v": "水着",
     "id": 10071,
-    "icon": "enemyinfo_ch0215"
+    "icon": "enemyinfo_ch0215",
+    "birthday": "1/7",
+    "school": "SRT",
+    "order": 143
   },
   {
     "n": "サキ",
     "v": "水着",
     "id": 10072,
-    "icon": "enemyinfo_ch0217"
+    "icon": "enemyinfo_ch0217",
+    "birthday": "4/9",
+    "school": "SRT",
+    "order": 144
   },
   {
     "n": "ミユ",
     "v": "水着",
     "id": 26010,
-    "icon": "enemyinfo_ch0218"
+    "icon": "enemyinfo_ch0218",
+    "birthday": "7/12",
+    "school": "SRT",
+    "order": 145
   },
   {
     "n": "シロコ",
     "v": "水着",
     "id": 20027,
-    "icon": "enemyinfo_ch0188"
+    "icon": "enemyinfo_ch0188",
+    "birthday": "5/16",
+    "school": "Abydos",
+    "order": 146
   },
   {
     "n": "ウイ",
     "v": "水着",
     "id": 10073,
-    "icon": "enemyinfo_ch0204"
+    "icon": "enemyinfo_ch0204",
+    "birthday": "4/23",
+    "school": "Trinity",
+    "order": 147
   },
   {
     "n": "ヒナタ",
     "v": "水着",
     "id": 20028,
-    "icon": "enemyinfo_ch0210"
+    "icon": "enemyinfo_ch0210",
+    "birthday": "5/17",
+    "school": "Trinity",
+    "order": 148
   },
   {
     "n": "コハル",
     "v": "水着",
     "id": 16013,
-    "icon": "enemyinfo_ch0205"
+    "icon": "enemyinfo_ch0205",
+    "birthday": "4/16",
+    "school": "Trinity",
+    "order": 149
   },
   {
     "n": "ハナコ",
     "v": "水着",
     "id": 10074,
-    "icon": "enemyinfo_ch0209"
+    "icon": "enemyinfo_ch0209",
+    "birthday": "1/3",
+    "school": "Trinity",
+    "order": 150
   },
   {
     "n": "ミモリ",
     "v": "水着",
     "id": 20029,
-    "icon": null
+    "icon": null,
+    "birthday": "3/15",
+    "school": "Hyakkiyako",
+    "order": 151
   },
   {
     "n": "メル",
     "v": "通常",
     "id": 10075,
-    "icon": "enemyinfo_ch0124"
+    "icon": "enemyinfo_ch0124",
+    "birthday": "12/21",
+    "school": "RedWinter",
+    "order": 152
   },
   {
     "n": "モミジ",
     "v": "通常",
     "id": 13013,
-    "icon": "enemyinfo_momiji_default"
+    "icon": "enemyinfo_momiji_default",
+    "birthday": "8/7",
+    "school": "RedWinter",
+    "order": 153
   },
   {
     "n": "コトリ",
     "v": "応援団",
     "id": 10076,
-    "icon": null
+    "icon": null,
+    "birthday": "12/31",
+    "school": "Millennium",
+    "order": 154
   },
   {
     "n": "ハルナ",
     "v": "体操服",
     "id": 20030,
-    "icon": null
+    "icon": null,
+    "birthday": "3/1",
+    "school": "Gehenna",
+    "order": 155
   },
   {
     "n": "イチカ",
     "v": "通常",
     "id": 10077,
-    "icon": "enemyinfo_ch0071"
+    "icon": "enemyinfo_ch0071",
+    "birthday": "11/11",
+    "school": "Trinity",
+    "order": 156
   },
   {
     "n": "カスミ",
     "v": "通常",
     "id": 10078,
-    "icon": "enemyinfo_ch0089"
+    "icon": "enemyinfo_ch0089",
+    "birthday": "5/24",
+    "school": "Gehenna",
+    "order": 157
   },
   {
     "n": "シグレ",
     "v": "温泉",
     "id": 20031,
-    "icon": null
+    "icon": null,
+    "birthday": "1/22",
+    "school": "RedWinter",
+    "order": 158
   },
   {
     "n": "ユカリ",
     "v": "通常",
     "id": 10081,
-    "icon": "enemyinfo_ch0161"
+    "icon": "enemyinfo_ch0161",
+    "birthday": "6/16",
+    "school": "Hyakkiyako",
+    "order": 162
   },
   {
     "n": "レンゲ",
     "v": "通常",
     "id": 10082,
-    "icon": "enemyinfo_ch0224"
+    "icon": "enemyinfo_ch0224",
+    "birthday": "7/23",
+    "school": "Hyakkiyako",
+    "order": 163
   },
   {
     "n": "キキョウ",
     "v": "通常",
     "id": 10083,
-    "icon": "enemyinfo_ch0225"
+    "icon": "enemyinfo_ch0225",
+    "birthday": "8/8",
+    "school": "Hyakkiyako",
+    "order": 164
   },
   {
     "n": "エイミ",
     "v": "水着",
     "id": 20032,
-    "icon": "enemyinfo_ch0219"
+    "icon": "enemyinfo_ch0219",
+    "birthday": "5/1",
+    "school": "Millennium",
+    "order": 165
   },
   {
     "n": "コタマ",
     "v": "キャンプ",
     "id": 10084,
-    "icon": "enemyinfo_ch0232"
+    "icon": "enemyinfo_ch0232",
+    "birthday": "1/5",
+    "school": "Millennium",
+    "order": 166
   },
   {
     "n": "ハレ",
     "v": "キャンプ",
     "id": 10085,
-    "icon": "enemyinfo_ch0233"
+    "icon": "enemyinfo_ch0233",
+    "birthday": "4/19",
+    "school": "Millennium",
+    "order": 167
   },
   {
     "n": "アコ",
     "v": "ドレス",
     "id": 10087,
-    "icon": "enemyinfo_ch0231"
+    "icon": "enemyinfo_ch0231",
+    "birthday": "12/22",
+    "school": "Gehenna",
+    "order": 168
   },
   {
     "n": "イブキ",
     "v": "通常",
     "id": 16014,
-    "icon": "enemyinfo_ch0077"
+    "icon": "enemyinfo_ch0077",
+    "birthday": "4/14",
+    "school": "Gehenna",
+    "order": 169
   },
   {
     "n": "マコト",
     "v": "通常",
     "id": 20033,
-    "icon": "enemyinfo_ch0079"
+    "icon": "enemyinfo_ch0079",
+    "birthday": "3/19",
+    "school": "Gehenna",
+    "order": 170
   },
   {
     "n": "ヒナ",
     "v": "ドレス",
     "id": 10086,
-    "icon": "enemyinfo_ch0230"
+    "icon": "enemyinfo_ch0230",
+    "birthday": "2/19",
+    "school": "Gehenna",
+    "order": 171
   },
   {
     "n": "カヨコ",
     "v": "ドレス",
     "id": 10088,
-    "icon": "enemyinfo_ch0239"
+    "icon": "enemyinfo_ch0239",
+    "birthday": "3/17",
+    "school": "Gehenna",
+    "order": 172
   },
   {
     "n": "アル",
     "v": "ドレス",
     "id": 10089,
-    "icon": "enemyinfo_ch0240"
+    "icon": "enemyinfo_ch0240",
+    "birthday": "3/12",
+    "school": "Gehenna",
+    "order": 173
   },
   {
     "n": "アカリ",
     "v": "正月",
     "id": 20034,
-    "icon": "enemyinfo_ch0196"
+    "icon": "enemyinfo_ch0196",
+    "birthday": "12/9",
+    "school": "Gehenna",
+    "order": 174
   },
   {
     "n": "ウミカ",
     "v": "通常",
     "id": 10090,
-    "icon": "enemyinfo_ch0110"
+    "icon": "enemyinfo_ch0110",
+    "birthday": "7/1",
+    "school": "Hyakkiyako",
+    "order": 175
   },
   {
     "n": "ツバキ",
     "v": "ガイド",
     "id": 20035,
-    "icon": "enemyinfo_ch0255"
+    "icon": "enemyinfo_ch0255",
+    "birthday": "2/3",
+    "school": "Hyakkiyako",
+    "order": 176
   },
   {
     "n": "カズサ",
     "v": "バンド",
     "id": 10091,
-    "icon": "enemyinfo_ch0250"
+    "icon": "enemyinfo_ch0250",
+    "birthday": "8/5",
+    "school": "Trinity",
+    "order": 177
   },
   {
     "n": "ヨシミ",
     "v": "バンド",
     "id": 10092,
-    "icon": "enemyinfo_ch0220"
+    "icon": "enemyinfo_ch0220",
+    "birthday": "8/29",
+    "school": "Trinity",
+    "order": 178
   },
   {
     "n": "アイリ",
     "v": "バンド",
     "id": 16015,
-    "icon": "enemyinfo_ch0251"
+    "icon": "enemyinfo_ch0251",
+    "birthday": "1/30",
+    "school": "Trinity",
+    "order": 179
   },
   {
     "n": "キララ",
     "v": "通常",
     "id": 10093,
-    "icon": "enemyinfo_kirara"
+    "icon": "enemyinfo_kirara",
+    "birthday": "2/24",
+    "school": "Gehenna",
+    "order": 180
   },
   {
     "n": "モモイ",
     "v": "メイド",
     "id": 10094,
-    "icon": "enemyinfo_ch0201"
+    "icon": "enemyinfo_ch0201",
+    "birthday": "12/8",
+    "school": "Millennium",
+    "order": 181
   },
   {
     "n": "ミドリ",
     "v": "メイド",
     "id": 10095,
-    "icon": "enemyinfo_ch0202"
+    "icon": "enemyinfo_ch0202",
+    "birthday": "12/8",
+    "school": "Millennium",
+    "order": 182
   },
   {
     "n": "セリカ",
     "v": "水着",
     "id": 20036,
-    "icon": "enemyinfo_ch0189"
+    "icon": "enemyinfo_ch0189",
+    "birthday": "6/25",
+    "school": "Abydos",
+    "order": 183
   },
   {
     "n": "カンナ",
     "v": "水着",
     "id": 10096,
-    "icon": "enemyinfo_ch0260"
+    "icon": "enemyinfo_ch0260",
+    "birthday": "9/7",
+    "school": "Valkyrie",
+    "order": 184
   },
   {
     "n": "フブキ",
     "v": "水着",
     "id": 20037,
-    "icon": "enemyinfo_ch0261"
+    "icon": "enemyinfo_ch0261",
+    "birthday": "10/21",
+    "school": "Valkyrie",
+    "order": 185
   },
   {
     "n": "キリノ",
     "v": "水着",
     "id": 26012,
-    "icon": "enemyinfo_ch0262"
+    "icon": "enemyinfo_ch0262",
+    "birthday": "10/22",
+    "school": "Valkyrie",
+    "order": 186
   },
   {
     "n": "モエ",
     "v": "水着",
     "id": 10097,
-    "icon": "enemyinfo_ch0216"
+    "icon": "enemyinfo_ch0216",
+    "birthday": "9/13",
+    "school": "SRT",
+    "order": 187
   },
   {
     "n": "ホシノ",
     "v": "臨戦",
     "id": 10098,
-    "icon": "enemyinfo_ch0258_02_enemy"
+    "icon": "enemyinfo_ch0258_02_enemy",
+    "birthday": "1/2",
+    "school": "Abydos",
+    "order": 188
   },
   {
     "n": "シロコ＊テラー",
     "v": "通常",
     "id": 10100,
-    "icon": "enemyinfo_ch0263"
+    "icon": "enemyinfo_ch0263",
+    "birthday": "5/16",
+    "school": "Abydos",
+    "order": 190
   },
   {
     "n": "アツコ",
     "v": "水着",
     "id": 26013,
-    "icon": "enemyinfo_ch0267"
+    "icon": "enemyinfo_ch0267",
+    "birthday": "1/20",
+    "school": "Arius",
+    "order": 191
   },
   {
     "n": "サオリ",
     "v": "水着",
     "id": 10101,
-    "icon": "enemyinfo_ch0266"
+    "icon": "enemyinfo_ch0266",
+    "birthday": "9/3",
+    "school": "Arius",
+    "order": 192
   },
   {
     "n": "ヒヨリ",
     "v": "水着",
     "id": 10102,
-    "icon": "enemyinfo_ch0269"
+    "icon": "enemyinfo_ch0269",
+    "birthday": "1/8",
+    "school": "Arius",
+    "order": 193
   },
   {
     "n": "マリナ",
     "v": "チーパオ",
     "id": 10103,
-    "icon": "enemyinfo_ch0270"
+    "icon": "enemyinfo_ch0270",
+    "birthday": "11/4",
+    "school": "RedWinter",
+    "order": 194
   },
   {
     "n": "トモエ",
     "v": "チーパオ",
     "id": 20038,
-    "icon": "enemyinfo_ch0271"
+    "icon": "enemyinfo_ch0271",
+    "birthday": "11/10",
+    "school": "RedWinter",
+    "order": 195
   },
   {
     "n": "レイジョ",
     "v": "通常",
     "id": 10104,
-    "icon": "enemyinfo_reizyo"
+    "icon": "enemyinfo_reizyo",
+    "birthday": "3/3",
+    "school": "Shanhaijing",
+    "order": 196
   },
   {
     "n": "キサキ",
     "v": "通常",
     "id": 20039,
-    "icon": "enemyinfo_ch0139"
+    "icon": "enemyinfo_ch0139",
+    "birthday": "2/19",
+    "school": "Shanhaijing",
+    "order": 197
   },
   {
     "n": "マリー",
     "v": "アイドル",
     "id": 10105,
-    "icon": "enemyinfo_ch0273"
+    "icon": "enemyinfo_ch0273",
+    "birthday": "9/12",
+    "school": "Trinity",
+    "order": 198
   },
   {
     "n": "サクラコ",
     "v": "アイドル",
     "id": 10106,
-    "icon": "enemyinfo_ch0274"
+    "icon": "enemyinfo_ch0274",
+    "birthday": "10/4",
+    "school": "Trinity",
+    "order": 199
   },
   {
     "n": "ミネ",
     "v": "アイドル",
     "id": 16016,
-    "icon": "enemyinfo_ch0275"
+    "icon": "enemyinfo_ch0275",
+    "birthday": "11/23",
+    "school": "Trinity",
+    "order": 200
   },
   {
     "n": "チアキ",
     "v": "通常",
     "id": 10107,
-    "icon": "enemyinfo_ch0238"
+    "icon": "enemyinfo_ch0238",
+    "birthday": "9/22",
+    "school": "Gehenna",
+    "order": 201
   },
   {
     "n": "サツキ",
     "v": "通常",
     "id": 20040,
-    "icon": "enemyinfo_ch0080"
+    "icon": "enemyinfo_ch0080",
+    "birthday": "4/10",
+    "school": "Gehenna",
+    "order": 202
   },
   {
     "n": "ユウカ",
     "v": "パジャマ",
     "id": 10108,
-    "icon": "enemyinfo_ch0284"
+    "icon": "enemyinfo_ch0284",
+    "birthday": "3/14",
+    "school": "Millennium",
+    "order": 203
   },
   {
     "n": "ノア",
     "v": "パジャマ",
     "id": 10109,
-    "icon": "enemyinfo_ch0285"
+    "icon": "enemyinfo_ch0285",
+    "birthday": "4/13",
+    "school": "Millennium",
+    "order": 204
   },
   {
     "n": "セイア",
     "v": "通常",
     "id": 10110,
-    "icon": "enemyinfo_ch0070"
+    "icon": "enemyinfo_ch0070",
+    "birthday": "9/29",
+    "school": "Trinity",
+    "order": 205
   },
   {
     "n": "アスナ",
     "v": "制服",
     "id": 10112,
-    "icon": "enemyinfo_ch0281"
+    "icon": "enemyinfo_ch0281",
+    "birthday": "3/24",
+    "school": "Millennium",
+    "order": 206
   },
   {
     "n": "カリン",
     "v": "制服",
     "id": 26014,
-    "icon": "enemyinfo_ch0282"
+    "icon": "enemyinfo_ch0282",
+    "birthday": "2/2",
+    "school": "Millennium",
+    "order": 207
   },
   {
     "n": "ネル",
     "v": "制服",
     "id": 10111,
-    "icon": "enemyinfo_ch0280"
+    "icon": "enemyinfo_ch0280",
+    "birthday": "8/17",
+    "school": "Millennium",
+    "order": 208
   },
   {
     "n": "リオ",
     "v": "通常",
     "id": 20041,
-    "icon": "enemyinfo_ch0158"
+    "icon": "enemyinfo_ch0158",
+    "birthday": "6/6",
+    "school": "Millennium",
+    "order": 209
   },
   {
     "n": "マキ",
     "v": "キャンプ",
     "id": 20042,
-    "icon": "enemyinfo_ch0235"
+    "icon": "enemyinfo_ch0235",
+    "birthday": "8/1",
+    "school": "Millennium",
+    "order": 210
   },
   {
     "n": "セナ",
     "v": "私服",
     "id": 10113,
-    "icon": "enemyinfo_ch0082"
+    "icon": "enemyinfo_ch0082",
+    "birthday": "4/7",
+    "school": "Gehenna",
+    "order": 211
   },
   {
     "n": "ジュリ",
     "v": "アルバイト",
     "id": 10114,
-    "icon": "enemyinfo_ch0286"
+    "icon": "enemyinfo_ch0286",
+    "birthday": "10/20",
+    "school": "Gehenna",
+    "order": 212
   },
   {
     "n": "イズミ",
     "v": "正月",
     "id": 20043,
-    "icon": "enemyinfo_ch0197"
+    "icon": "enemyinfo_ch0197",
+    "birthday": "5/11",
+    "school": "Gehenna",
+    "order": 213
   },
   {
     "n": "レイ",
     "v": "通常",
     "id": 10115,
-    "icon": "enemyinfo_ch0245"
+    "icon": "enemyinfo_ch0245",
+    "birthday": "8/9",
+    "school": "Millennium",
+    "order": 214
   },
   {
     "n": "スミレ",
     "v": "アルバイト",
     "id": 20044,
-    "icon": "enemyinfo_ch0287"
+    "icon": "enemyinfo_ch0287",
+    "birthday": "8/20",
+    "school": "Millennium",
+    "order": 215
   },
   {
     "n": "サオリ",
     "v": "ドレス",
     "id": 10116,
-    "icon": "enemyinfo_ch0259"
+    "icon": "enemyinfo_ch0259",
+    "birthday": "9/3",
+    "school": "Arius",
+    "order": 216
   },
   {
     "n": "ヒカリ",
     "v": "通常",
     "id": 10117,
-    "icon": "enemyinfo_ch0242"
+    "icon": "enemyinfo_ch0242",
+    "birthday": "6/14",
+    "school": "Highlander",
+    "order": 217
   },
   {
     "n": "ノゾミ",
     "v": "通常",
     "id": 10118,
-    "icon": "enemyinfo_ch0243"
+    "icon": "enemyinfo_ch0243",
+    "birthday": "6/14",
+    "school": "Highlander",
+    "order": 218
   },
   {
     "n": "アオバ",
     "v": "通常",
     "id": 16017,
-    "icon": "enemyinfo_ch0288"
+    "icon": "enemyinfo_ch0288",
+    "birthday": "7/19",
+    "school": "Highlander",
+    "order": 219
   },
   {
     "n": "フィーナ",
     "v": "ガイド",
     "id": 20045,
-    "icon": "enemyinfo_ch0257"
+    "icon": "enemyinfo_ch0257",
+    "birthday": "11/3",
+    "school": "Hyakkiyako",
+    "order": 220
   },
   {
     "n": "ナグサ",
     "v": "通常",
     "id": 10119,
-    "icon": "enemyinfo_ch0222"
+    "icon": "enemyinfo_ch0222",
+    "birthday": "12/7",
+    "school": "Hyakkiyako",
+    "order": 221
   },
   {
     "n": "ニヤ",
     "v": "通常",
     "id": 20046,
-    "icon": "enemyinfo_ch0109"
+    "icon": "enemyinfo_ch0109",
+    "birthday": "1/1",
+    "school": "Hyakkiyako",
+    "order": 222
   },
   {
     "n": "ナツ",
     "v": "バンド",
     "id": 10120,
-    "icon": "enemyinfo_ch0221"
+    "icon": "enemyinfo_ch0221",
+    "birthday": "12/4",
+    "school": "Trinity",
+    "order": 223
   },
   {
     "n": "ユカリ",
     "v": "水着",
     "id": 10121,
-    "icon": "enemyinfo_ch0301"
+    "icon": "enemyinfo_ch0301",
+    "birthday": "6/16",
+    "school": "Hyakkiyako",
+    "order": 224
   },
   {
     "n": "レンゲ",
     "v": "水着",
     "id": 13014,
-    "icon": "enemyinfo_ch0302"
+    "icon": "enemyinfo_ch0302",
+    "birthday": "7/23",
+    "school": "Hyakkiyako",
+    "order": 225
   },
   {
     "n": "キキョウ",
     "v": "水着",
     "id": 20047,
-    "icon": "enemyinfo_ch0300"
+    "icon": "enemyinfo_ch0300",
+    "birthday": "8/8",
+    "school": "Hyakkiyako",
+    "order": 226
   },
   {
     "n": "セイア",
     "v": "水着",
     "id": 10123,
-    "icon": "enemyinfo_ch0295"
+    "icon": "enemyinfo_ch0295",
+    "birthday": "9/29",
+    "school": "Trinity",
+    "order": 227
   },
   {
     "n": "ハスミ",
     "v": "水着",
     "id": 10124,
-    "icon": "enemyinfo_ch0291"
+    "icon": "enemyinfo_ch0291",
+    "birthday": "12/12",
+    "school": "Trinity",
+    "order": 228
   },
   {
     "n": "イチカ",
     "v": "水着",
     "id": 26015,
-    "icon": "enemyinfo_ch0292"
+    "icon": "enemyinfo_ch0292",
+    "birthday": "11/11",
+    "school": "Trinity",
+    "order": 229
   },
   {
     "n": "ナギサ",
     "v": "水着",
     "id": 20048,
-    "icon": "enemyinfo_ch0293"
+    "icon": "enemyinfo_ch0293",
+    "birthday": "7/4",
+    "school": "Trinity",
+    "order": 230
   },
   {
     "n": "ミカ",
     "v": "水着",
     "id": 10122,
-    "icon": "enemyinfo_ch0294"
+    "icon": "enemyinfo_ch0294",
+    "birthday": "5/8",
+    "school": "Trinity",
+    "order": 231
   },
   {
     "n": "エリ",
     "v": "通常",
     "id": 10125,
-    "icon": "enemyinfo_ch0304"
+    "icon": "enemyinfo_ch0304",
+    "birthday": "10/31",
+    "school": "WildHunt",
+    "order": 232
   },
   {
     "n": "カノエ",
     "v": "通常",
     "id": 10126,
-    "icon": "enemyinfo_ch0306"
+    "icon": "enemyinfo_ch0306",
+    "birthday": "11/2",
+    "school": "WildHunt",
+    "order": 233
   },
   {
     "n": "ミサキ",
     "v": "水着",
     "id": 20049,
-    "icon": "enemyinfo_ch0268"
+    "icon": "enemyinfo_ch0268",
+    "birthday": "1/13",
+    "school": "Arius",
+    "order": 234
   },
   {
     "n": "ミヨ",
     "v": "通常",
     "id": 10127,
-    "icon": "enemyinfo_ch0317"
+    "icon": "enemyinfo_ch0317",
+    "birthday": "8/24",
+    "school": "WildHunt",
+    "order": 235
   },
   {
     "n": "フユ",
     "v": "通常",
     "id": 10128,
-    "icon": "enemyinfo_ch0318"
+    "icon": "enemyinfo_ch0318",
+    "birthday": "9/5",
+    "school": "WildHunt",
+    "order": 236
   },
   {
     "n": "リツ",
     "v": "通常",
     "id": 20050,
-    "icon": "enemyinfo_ch0319"
+    "icon": "enemyinfo_ch0319",
+    "birthday": "3/6",
+    "school": "WildHunt",
+    "order": 237
   },
   {
     "n": "レイサ",
     "v": "マジカル",
     "id": 20051,
-    "icon": "enemyinfo_ch0326"
+    "icon": "enemyinfo_ch0326",
+    "birthday": "5/31",
+    "school": "Trinity",
+    "order": 238
   },
   {
     "n": "スズミ",
     "v": "マジカル",
     "id": 10129,
-    "icon": "enemyinfo_ch0325"
+    "icon": "enemyinfo_ch0325",
+    "birthday": "8/31",
+    "school": "Trinity",
+    "order": 239
   },
   {
     "n": "ラブ",
     "v": "通常",
     "id": 16018,
-    "icon": "enemyinfo_ch0166"
+    "icon": "enemyinfo_ch0166",
+    "birthday": "5/6",
+    "school": "Trinity",
+    "order": 240
   },
   {
     "n": "スバル",
     "v": "通常",
     "id": 10130,
-    "icon": "enemyinfo_ch0309"
+    "icon": "enemyinfo_ch0309",
+    "birthday": "3/9",
+    "school": "Arius",
+    "order": 241
   },
   {
     "n": "タカネ",
     "v": "通常",
     "id": 10131,
-    "icon": "enemyinfo_ch0229"
+    "icon": "enemyinfo_ch0229",
+    "birthday": "6/18",
+    "school": "RedWinter",
+    "order": 242
   },
   {
     "n": "ヤクモ",
     "v": "通常",
     "id": 20052,
-    "icon": "enemyinfo_ch0228"
+    "icon": "enemyinfo_ch0228",
+    "birthday": "5/18",
+    "school": "RedWinter",
+    "order": 243
   },
   {
     "n": "ツクヨ",
     "v": "ドレス",
     "id": 10132,
-    "icon": "enemyinfo_ch0297"
+    "icon": "enemyinfo_ch0297",
+    "birthday": "4/5",
+    "school": "Hyakkiyako",
+    "order": 244
   },
   {
     "n": "ミチル",
     "v": "ドレス",
     "id": 20053,
-    "icon": "enemyinfo_ch0296"
+    "icon": "enemyinfo_ch0296",
+    "birthday": "2/22",
+    "school": "Hyakkiyako",
+    "order": 245
   },
   {
     "n": "リオ",
     "v": "臨戦",
     "id": 10133,
-    "icon": "enemyinfo_ch0331"
+    "icon": "enemyinfo_ch0331",
+    "birthday": "6/6",
+    "school": "Millennium",
+    "order": 246
   },
   {
     "n": "トキ",
     "v": "臨戦",
     "id": 16019,
-    "icon": "enemyinfo_ch0333"
+    "icon": "enemyinfo_ch0333",
+    "birthday": "8/16",
+    "school": "Millennium",
+    "order": 247
   },
   {
     "n": "ヒマリ",
     "v": "臨戦",
     "id": 20054,
-    "icon": "enemyinfo_ch0332"
+    "icon": "enemyinfo_ch0332",
+    "birthday": "12/10",
+    "school": "Millennium",
+    "order": 248
   },
   {
     "n": "アリス",
     "v": "臨戦",
     "id": 10134,
-    "icon": "enemyinfo_ch0334"
+    "icon": "enemyinfo_ch0334",
+    "birthday": "3/25",
+    "school": "Millennium",
+    "order": 249
   },
   {
     "n": "ケイ",
     "v": "通常",
     "id": 10135,
-    "icon": "enemyinfo_ch0335"
+    "icon": "enemyinfo_ch0335",
+    "birthday": "3/25",
+    "school": "Millennium",
+    "order": 250
   },
   {
     "n": "エイミ",
     "v": "臨戦",
     "id": 10136,
-    "icon": "enemyinfo_ch0337"
+    "icon": "enemyinfo_ch0337",
+    "birthday": "5/1",
+    "school": "Millennium",
+    "order": 251
   },
   {
     "n": "ユズ",
     "v": "臨戦",
     "id": 20055,
-    "icon": "enemyinfo_ch0336"
+    "icon": "enemyinfo_ch0336",
+    "birthday": "8/12",
+    "school": "Millennium",
+    "order": 252
   },
   {
     "n": "コユキ",
     "v": "パジャマ",
     "id": 20056,
-    "icon": "enemyinfo_ch0310"
+    "icon": "enemyinfo_ch0310",
+    "birthday": "2/14",
+    "school": "Millennium",
+    "order": 253
   },
   {
     "n": "コノカ",
     "v": "通常",
     "id": 10137,
-    "icon": "enemyinfo_ch0264"
+    "icon": "enemyinfo_ch0264",
+    "birthday": "8/19",
+    "school": "Valkyrie",
+    "order": 254
   },
   {
     "n": "レナ",
     "v": "通常",
     "id": 10138,
-    "icon": "enemyinfo_ch0305"
+    "icon": "enemyinfo_ch0305",
+    "birthday": "9/21",
+    "school": "WildHunt",
+    "order": 255
   },
   {
     "n": "アカネ",
     "v": "制服",
     "id": 20057,
-    "icon": "enemyinfo_ch0307"
+    "icon": "enemyinfo_ch0307",
+    "birthday": "4/1",
+    "school": "Millennium",
+    "order": 256
   },
   {
     "n": "ニコ",
     "v": "通常",
     "id": 10139,
-    "icon": "enemyinfo_ch0172"
+    "icon": "enemyinfo_ch0172",
+    "birthday": "2/11",
+    "school": "SRT",
+    "order": 257
   },
   {
     "n": "クルミ",
     "v": "通常",
     "id": 10140,
-    "icon": "enemyinfo_ch0173"
+    "icon": "enemyinfo_ch0173",
+    "birthday": "9/30",
+    "school": "SRT",
+    "order": 258
   },
   {
     "n": "オトギ",
     "v": "通常",
     "id": 16020,
-    "icon": "enemyinfo_ch0174"
+    "icon": "enemyinfo_ch0174",
+    "birthday": "5/20",
+    "school": "SRT",
+    "order": 259
   },
   {
     "n": "エリカ",
     "v": "通常",
     "id": 20058,
-    "icon": "enemyinfo_ch0076"
+    "icon": "enemyinfo_ch0076",
+    "birthday": "2/1",
+    "school": "Gehenna",
+    "order": 260
   },
   {
     "n": "ハルカ",
     "v": "ドレス",
     "id": 10141,
-    "icon": "enemyinfo_ch0247"
+    "icon": "enemyinfo_ch0247",
+    "birthday": "5/13",
+    "school": "Gehenna",
+    "order": 261
   },
   {
     "n": "ムツキ",
     "v": "ドレス",
     "id": 20059,
-    "icon": "enemyinfo_ch0246"
+    "icon": "enemyinfo_ch0246",
+    "birthday": "7/29",
+    "school": "Gehenna",
+    "order": 262
   },
   {
     "n": "ナグサ",
     "v": "水着",
     "id": 10142,
-    "icon": "enemyinfo_ch0303"
+    "icon": "enemyinfo_ch0303",
+    "birthday": "12/7",
+    "school": "Hyakkiyako",
+    "order": 263
   },
   {
     "n": "シュン",
     "v": "水着",
     "id": 10143,
-    "icon": "enemyinfo_ch0355_01"
+    "icon": "enemyinfo_ch0355_01",
+    "birthday": "2/5",
+    "school": "Shanhaijing",
+    "order": 264
   },
   {
     "n": "キサキ",
     "v": "水着",
     "id": 10145,
-    "icon": "enemyinfo_ch0356"
+    "icon": "enemyinfo_ch0356",
+    "birthday": "2/19",
+    "school": "Shanhaijing",
+    "order": 266
   },
   {
     "n": "マコト",
     "v": "水着",
     "id": 10146,
-    "icon": "enemyinfo_ch0344"
+    "icon": "enemyinfo_ch0344",
+    "birthday": "3/19",
+    "school": "Gehenna",
+    "order": 267
   },
   {
     "n": "サツキ",
     "v": "水着",
     "id": 10147,
-    "icon": "enemyinfo_ch0345"
+    "icon": "enemyinfo_ch0345",
+    "birthday": "4/10",
+    "school": "Gehenna",
+    "order": 268
   },
   {
     "n": "チアキ",
     "v": "水着",
     "id": 26016,
-    "icon": "enemyinfo_ch0348"
+    "icon": "enemyinfo_ch0348",
+    "birthday": "9/22",
+    "school": "Gehenna",
+    "order": 269
   },
   {
     "n": "イロハ",
     "v": "水着",
     "id": 10148,
-    "icon": "enemyinfo_ch0346"
+    "icon": "enemyinfo_ch0346",
+    "birthday": "11/16",
+    "school": "Gehenna",
+    "order": 270
   },
   {
     "n": "イブキ",
     "v": "水着",
     "id": 20060,
-    "icon": "enemyinfo_ch0347"
+    "icon": "enemyinfo_ch0347",
+    "birthday": "4/14",
+    "school": "Gehenna",
+    "order": 271
   },
   {
     "n": "ココロ",
     "v": "通常",
     "id": 10149,
-    "icon": "enemyinfo_ch0368"
+    "icon": "enemyinfo_ch0368",
+    "birthday": "6/11",
+    "school": "Odyssey",
+    "order": 272
   },
   {
     "n": "コトネ",
     "v": "通常",
     "id": 10150,
-    "icon": "enemyinfo_ch0369"
+    "icon": "enemyinfo_ch0369",
+    "birthday": "10/16",
+    "school": "Odyssey",
+    "order": 273
   },
   {
     "n": "カスミ",
     "v": "水着",
     "id": 20061,
-    "icon": "enemyinfo_ch0328"
+    "icon": "enemyinfo_ch0328",
+    "birthday": "5/24",
+    "school": "Gehenna",
+    "order": 274
   },
   {
     "n": "アンナ",
     "v": "通常",
     "id": 10151,
-    "icon": "enemyinfo_ch0320"
+    "icon": "enemyinfo_ch0320",
+    "birthday": "3/10",
+    "school": "RedWinter",
+    "order": 275
   },
   {
     "n": "エリナ",
     "v": "通常",
     "id": 20062,
-    "icon": "enemyinfo_ch0321"
+    "icon": "enemyinfo_ch0321",
+    "birthday": "2/8",
+    "school": "RedWinter",
+    "order": 276
   },
   {
     "n": "ツムギ",
     "v": "通常",
     "id": 10152,
-    "icon": "enemyinfo_ch0252"
+    "icon": "enemyinfo_ch0252",
+    "birthday": "3/11",
+    "school": "WildHunt",
+    "order": 277
   },
   {
     "n": "ヒフミ",
     "v": "レーシング",
     "id": 10153,
-    "icon": "enemyinfo_ch0379"
+    "icon": "enemyinfo_ch0379",
+    "birthday": "11/27",
+    "school": "Trinity",
+    "order": 278
   },
   {
     "n": "アズサ",
     "v": "レーシング",
     "id": 20063,
-    "icon": "enemyinfo_ch0380"
+    "icon": "enemyinfo_ch0380",
+    "birthday": "12/26",
+    "school": "Trinity",
+    "order": 279
   },
   {
     "n": "ラナ",
     "v": "通常",
     "id": 26017,
-    "icon": "enemyinfo_ch0322"
+    "icon": "enemyinfo_ch0322",
+    "birthday": "6/13",
+    "school": "RedWinter",
+    "order": 280
   },
   {
     "n": "マナミ",
     "v": "通常",
     "id": 10154,
-    "icon": "enemyinfo_ch0339"
+    "icon": "enemyinfo_ch0339",
+    "birthday": "6/19",
+    "school": "WildHunt",
+    "order": 281
   },
   {
     "n": "ウララ",
     "v": "通常",
     "id": 20064,
-    "icon": "enemyinfo_ch0340"
+    "icon": "enemyinfo_ch0340",
+    "birthday": "7/28",
+    "school": "WildHunt",
+    "order": 282
   }
 ]

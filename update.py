@@ -7,7 +7,7 @@ for x in raw.values():
  if not x['IsReleased'][0]: continue
  n,_,v=x['Name'].partition('（');v=v.rstrip('）') or '通常'
  if n in ('初音ミク','御坂美琴','佐天涙子','食蜂操祈'):continue
- k=(n,v); rows.setdefault(k,{'n':n,'v':v,'id':x['Id'],'icon':x['Icon']})
+ k=(n,v); rows.setdefault(k,{'n':n,'v':v,'id':x['Id'],'icon':x['Icon'],'birthday':x.get('BirthDay',''),'school':x.get('School',''),'order':x.get('DefaultOrder')})
 assert len(rows)>200 and ('シロコ＊テラー','通常') in rows
 p=Path('students.json')
 if p.exists():
